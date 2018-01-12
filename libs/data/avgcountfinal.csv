@@ -1,0 +1,2121 @@
+dept,Year,AIadj,SYSadj,Theoadj,IAadj
+Arizona State University,2000,1.80 ,1.00 ,1.00 ,1.00 
+Arizona State University,2001,1.71 ,1.83 ,1.00 ,1.00 
+Arizona State University,2002,1.33 ,1.34 ,1.00 ,1.00 
+Arizona State University,2003,1.46 ,1.25 ,1.00 ,1.00 
+Arizona State University,2004,1.88 ,1.00 ,1.00 ,1.21 
+Arizona State University,2005,2.33 ,1.26 ,1.00 ,1.33 
+Arizona State University,2006,1.75 ,1.51 ,1.00 ,1.50 
+Arizona State University,2007,2.79 ,1.83 ,1.33 ,1.44 
+Arizona State University,2008,2.34 ,1.20 ,1.00 ,1.00 
+Arizona State University,2009,1.97 ,1.41 ,1.00 ,1.51 
+Arizona State University,2010,1.63 ,1.53 ,1.00 ,1.25 
+Arizona State University,2011,1.81 ,1.37 ,1.00 ,2.00 
+Arizona State University,2012,2.76 ,1.33 ,1.00 ,1.80 
+Arizona State University,2013,2.45 ,1.66 ,1.00 ,1.65 
+Arizona State University,2014,1.76 ,1.51 ,1.00 ,2.63 
+Arizona State University,2015,2.21 ,1.30 ,1.00 ,1.76 
+Arizona State University,2016,2.07 ,1.53 ,1.00 ,1.23 
+Arizona State University,2017,3.02 ,1.48 ,1.00 ,1.53 
+Auburn University,2001,1.00 ,1.00 ,1.00 ,1.50 
+Auburn University,2003,1.00 ,1.50 ,1.00 ,1.00 
+Auburn University,2006,1.00 ,1.25 ,1.00 ,1.00 
+Auburn University,2009,1.00 ,1.37 ,1.00 ,1.00 
+Auburn University,2010,1.00 ,1.25 ,1.00 ,1.00 
+Auburn University,2011,1.00 ,1.37 ,1.00 ,1.00 
+Auburn University,2014,1.00 ,1.33 ,1.00 ,1.00 
+Auburn University,2016,1.00 ,1.21 ,1.00 ,1.00 
+Binghamton University,2000,1.00 ,1.45 ,1.00 ,1.00 
+Binghamton University,2001,1.25 ,1.31 ,1.00 ,1.00 
+Binghamton University,2002,1.33 ,2.16 ,1.00 ,1.00 
+Binghamton University,2003,2.33 ,1.44 ,1.00 ,1.00 
+Binghamton University,2004,1.66 ,1.39 ,1.00 ,1.00 
+Binghamton University,2005,1.52 ,1.68 ,1.00 ,1.00 
+Binghamton University,2006,1.36 ,1.73 ,1.00 ,1.00 
+Binghamton University,2007,1.61 ,1.55 ,1.00 ,1.00 
+Binghamton University,2008,1.47 ,1.33 ,1.00 ,1.00 
+Binghamton University,2009,1.33 ,1.46 ,1.00 ,1.00 
+Binghamton University,2010,1.20 ,1.32 ,1.00 ,1.00 
+Binghamton University,2011,1.25 ,1.37 ,1.00 ,1.00 
+Binghamton University,2012,1.20 ,1.40 ,1.00 ,1.00 
+Binghamton University,2013,1.47 ,1.30 ,1.00 ,1.33 
+Binghamton University,2014,1.20 ,1.48 ,1.00 ,1.00 
+Binghamton University,2015,1.41 ,1.23 ,1.00 ,1.20 
+Binghamton University,2016,1.56 ,1.47 ,1.00 ,1.00 
+Binghamton University,2017,1.45 ,1.29 ,1.00 ,1.00 
+Boise State University,2001,1.17 ,1.00 ,1.00 ,1.00 
+Boise State University,2003,1.00 ,1.25 ,1.00 ,1.50 
+Boise State University,2004,1.00 ,1.20 ,1.00 ,1.33 
+Boise State University,2005,1.00 ,1.33 ,1.00 ,1.00 
+Boise State University,2009,1.00 ,1.33 ,1.00 ,1.00 
+Boise State University,2010,1.00 ,1.50 ,1.00 ,1.00 
+Boise State University,2011,1.00 ,1.45 ,1.00 ,1.20 
+Boise State University,2012,1.00 ,1.25 ,1.00 ,1.00 
+Boise State University,2013,1.00 ,1.33 ,1.00 ,1.00 
+Boise State University,2014,1.00 ,1.34 ,1.00 ,1.00 
+Boise State University,2015,1.53 ,1.32 ,1.00 ,1.00 
+Boise State University,2016,1.33 ,1.25 ,1.00 ,1.00 
+Boston College,2001,1.00 ,1.20 ,1.00 ,1.00 
+Boston College,2003,1.00 ,1.50 ,1.00 ,1.00 
+Boston College,2004,1.33 ,1.00 ,1.00 ,1.00 
+Boston College,2005,1.00 ,1.50 ,1.00 ,1.25 
+Boston College,2006,1.53 ,1.00 ,1.33 ,1.33 
+Boston College,2007,1.29 ,1.00 ,1.00 ,1.00 
+Boston College,2008,1.58 ,1.00 ,1.33 ,1.00 
+Boston College,2009,2.50 ,1.00 ,1.33 ,1.20 
+Boston College,2010,1.67 ,1.00 ,1.00 ,1.00 
+Boston College,2011,1.33 ,1.00 ,1.00 ,1.00 
+Boston College,2012,3.25 ,1.00 ,1.00 ,1.00 
+Boston College,2013,1.37 ,1.00 ,1.00 ,1.10 
+Boston College,2014,1.58 ,1.00 ,1.00 ,1.27 
+Boston College,2015,1.70 ,1.19 ,1.00 ,1.59 
+Boston College,2016,1.00 ,1.00 ,1.25 ,1.33 
+Boston College,2017,2.00 ,1.00 ,1.00 ,1.31 
+Boston University,2000,1.83 ,1.41 ,1.62 ,1.00 
+Boston University,2001,1.97 ,1.54 ,2.98 ,1.00 
+Boston University,2002,1.20 ,1.29 ,2.37 ,1.00 
+Boston University,2003,3.00 ,1.41 ,2.50 ,1.00 
+Boston University,2004,1.32 ,1.55 ,1.74 ,1.00 
+Boston University,2005,1.83 ,1.41 ,1.60 ,1.00 
+Boston University,2006,1.53 ,1.45 ,1.58 ,1.00 
+Boston University,2007,1.73 ,1.60 ,1.41 ,1.00 
+Boston University,2008,2.15 ,1.38 ,1.51 ,1.00 
+Boston University,2009,2.18 ,1.25 ,1.50 ,1.33 
+Boston University,2010,2.09 ,1.26 ,1.64 ,2.00 
+Boston University,2011,2.62 ,1.45 ,1.80 ,1.13 
+Boston University,2012,2.60 ,1.63 ,1.58 ,1.55 
+Boston University,2013,1.94 ,1.41 ,3.17 ,1.25 
+Boston University,2014,2.30 ,1.41 ,2.19 ,1.37 
+Boston University,2015,2.42 ,1.62 ,2.27 ,1.20 
+Boston University,2016,1.72 ,1.45 ,2.06 ,1.25 
+Boston University,2017,1.77 ,1.29 ,1.51 ,1.31 
+Brandeis University,2000,1.00 ,2.00 ,1.00 ,1.00 
+Brandeis University,2001,1.50 ,1.33 ,1.00 ,1.00 
+Brandeis University,2002,1.00 ,1.29 ,1.00 ,1.00 
+Brandeis University,2003,1.50 ,1.69 ,1.00 ,1.00 
+Brandeis University,2004,1.75 ,1.30 ,1.00 ,1.00 
+Brandeis University,2005,1.37 ,1.07 ,1.00 ,1.00 
+Brandeis University,2006,2.53 ,1.43 ,1.00 ,1.00 
+Brandeis University,2007,1.50 ,1.50 ,1.00 ,1.50 
+Brandeis University,2008,2.00 ,1.47 ,1.00 ,1.00 
+Brandeis University,2011,1.00 ,1.25 ,1.00 ,1.00 
+Brandeis University,2012,2.00 ,1.11 ,1.00 ,1.00 
+Brandeis University,2013,1.50 ,2.00 ,1.00 ,1.00 
+Brandeis University,2014,2.50 ,1.33 ,1.00 ,1.00 
+Brandeis University,2015,2.50 ,1.25 ,1.00 ,1.00 
+Brandeis University,2016,1.00 ,1.31 ,1.00 ,1.00 
+Brandeis University,2017,1.50 ,1.00 ,1.00 ,1.00 
+Brigham Young University,2000,2.00 ,2.17 ,1.00 ,1.00 
+Brigham Young University,2001,2.00 ,1.67 ,1.33 ,1.20 
+Brigham Young University,2002,1.25 ,1.17 ,1.00 ,2.04 
+Brigham Young University,2003,2.00 ,1.00 ,1.00 ,1.25 
+Brigham Young University,2004,2.00 ,1.33 ,1.00 ,1.39 
+Brigham Young University,2005,2.09 ,1.00 ,1.00 ,1.39 
+Brigham Young University,2006,1.41 ,1.00 ,1.00 ,1.00 
+Brigham Young University,2007,1.91 ,1.00 ,1.00 ,1.00 
+Brigham Young University,2008,1.51 ,1.00 ,1.00 ,1.20 
+Brigham Young University,2009,1.77 ,1.00 ,1.00 ,1.83 
+Brigham Young University,2010,1.57 ,1.00 ,1.00 ,1.00 
+Brigham Young University,2011,1.48 ,1.33 ,1.00 ,1.00 
+Brigham Young University,2012,1.44 ,1.00 ,1.00 ,1.25 
+Brigham Young University,2013,1.25 ,1.33 ,1.00 ,1.00 
+Brigham Young University,2014,1.25 ,1.00 ,1.00 ,1.14 
+Brigham Young University,2015,1.75 ,1.00 ,1.00 ,1.00 
+Brigham Young University,2016,1.51 ,1.75 ,1.00 ,1.67 
+Brigham Young University,2017,1.25 ,1.20 ,1.00 ,1.00 
+Brown University,2000,2.50 ,1.67 ,2.53 ,2.00 
+Brown University,2001,2.42 ,1.71 ,2.08 ,1.44 
+Brown University,2002,1.32 ,1.49 ,2.42 ,1.35 
+Brown University,2003,1.70 ,1.74 ,1.33 ,1.49 
+Brown University,2004,1.51 ,1.73 ,2.08 ,1.42 
+Brown University,2005,1.83 ,1.38 ,2.60 ,1.38 
+Brown University,2006,1.70 ,1.55 ,2.24 ,1.60 
+Brown University,2007,1.64 ,1.51 ,1.58 ,1.00 
+Brown University,2008,1.85 ,1.82 ,2.83 ,1.50 
+Brown University,2009,1.37 ,1.45 ,1.36 ,2.16 
+Brown University,2010,1.97 ,1.45 ,1.00 ,1.27 
+Brown University,2011,1.71 ,1.56 ,1.71 ,1.79 
+Brown University,2012,1.48 ,1.46 ,2.13 ,1.57 
+Brown University,2013,2.09 ,1.32 ,1.87 ,1.51 
+Brown University,2014,1.75 ,1.55 ,2.06 ,1.46 
+Brown University,2015,1.91 ,1.79 ,1.53 ,1.50 
+Brown University,2016,2.34 ,1.33 ,2.78 ,1.41 
+Brown University,2017,1.78 ,1.57 ,1.50 ,1.23 
+California Institute of Technology,2000,2.00 ,1.00 ,2.83 ,1.42 
+California Institute of Technology,2001,1.95 ,1.33 ,2.08 ,1.86 
+California Institute of Technology,2002,1.41 ,1.33 ,2.00 ,1.74 
+California Institute of Technology,2003,1.90 ,1.45 ,1.50 ,2.22 
+California Institute of Technology,2004,2.60 ,1.00 ,1.58 ,1.33 
+California Institute of Technology,2005,4.92 ,1.83 ,1.92 ,1.42 
+California Institute of Technology,2006,1.33 ,1.29 ,2.08 ,1.50 
+California Institute of Technology,2007,1.47 ,1.00 ,2.08 ,1.75 
+California Institute of Technology,2008,2.45 ,1.50 ,3.28 ,1.50 
+California Institute of Technology,2009,1.51 ,1.00 ,2.50 ,1.70 
+California Institute of Technology,2010,1.52 ,1.33 ,2.11 ,1.25 
+California Institute of Technology,2011,2.23 ,1.40 ,1.83 ,1.78 
+California Institute of Technology,2012,1.45 ,1.46 ,2.50 ,1.25 
+California Institute of Technology,2013,1.89 ,1.33 ,2.04 ,1.91 
+California Institute of Technology,2014,1.69 ,1.56 ,1.25 ,1.97 
+California Institute of Technology,2015,1.69 ,1.22 ,2.08 ,2.15 
+California Institute of Technology,2016,1.49 ,1.20 ,2.00 ,1.87 
+California Institute of Technology,2017,1.87 ,1.33 ,2.67 ,1.58 
+Carnegie Mellon University,2000,4.01 ,1.93 ,2.80 ,2.90 
+Carnegie Mellon University,2001,2.86 ,2.02 ,2.16 ,3.05 
+Carnegie Mellon University,2002,3.28 ,1.97 ,2.71 ,3.53 
+Carnegie Mellon University,2003,5.59 ,1.95 ,2.91 ,3.15 
+Carnegie Mellon University,2004,4.08 ,2.02 ,3.38 ,3.51 
+Carnegie Mellon University,2005,4.77 ,2.26 ,2.02 ,3.55 
+Carnegie Mellon University,2006,5.73 ,2.02 ,3.26 ,3.49 
+Carnegie Mellon University,2007,6.76 ,2.12 ,2.55 ,5.00 
+Carnegie Mellon University,2008,4.93 ,2.29 ,3.40 ,3.69 
+Carnegie Mellon University,2009,5.40 ,2.09 ,2.85 ,4.80 
+Carnegie Mellon University,2010,5.82 ,2.15 ,2.39 ,4.15 
+Carnegie Mellon University,2011,5.58 ,1.82 ,3.02 ,4.86 
+Carnegie Mellon University,2012,6.15 ,1.98 ,3.52 ,4.09 
+Carnegie Mellon University,2013,7.20 ,1.93 ,3.41 ,3.93 
+Carnegie Mellon University,2014,7.45 ,1.98 ,2.89 ,4.06 
+Carnegie Mellon University,2015,8.95 ,2.30 ,2.19 ,4.68 
+Carnegie Mellon University,2016,8.50 ,2.58 ,3.62 ,4.32 
+Carnegie Mellon University,2017,9.01 ,2.72 ,3.21 ,2.99 
+Case Western Reserve University,2000,1.33 ,1.58 ,1.00 ,2.28 
+Case Western Reserve University,2001,1.50 ,1.33 ,1.00 ,2.50 
+Case Western Reserve University,2002,1.50 ,1.33 ,1.00 ,2.67 
+Case Western Reserve University,2003,1.66 ,1.14 ,1.00 ,1.87 
+Case Western Reserve University,2004,2.50 ,1.00 ,1.50 ,1.66 
+Case Western Reserve University,2005,3.08 ,1.41 ,1.00 ,1.33 
+Case Western Reserve University,2006,1.50 ,1.00 ,1.00 ,1.67 
+Case Western Reserve University,2007,1.83 ,1.33 ,1.50 ,1.17 
+Case Western Reserve University,2008,1.25 ,1.33 ,1.00 ,1.50 
+Case Western Reserve University,2009,1.20 ,1.00 ,1.00 ,1.00 
+Case Western Reserve University,2010,1.00 ,1.33 ,1.00 ,1.68 
+Case Western Reserve University,2011,1.00 ,1.33 ,1.00 ,2.17 
+Case Western Reserve University,2012,1.50 ,3.00 ,1.00 ,1.33 
+Case Western Reserve University,2013,1.50 ,1.00 ,1.00 ,1.00 
+Case Western Reserve University,2014,1.50 ,1.00 ,1.00 ,1.33 
+Case Western Reserve University,2015,1.00 ,1.50 ,1.00 ,1.20 
+Case Western Reserve University,2016,1.55 ,1.00 ,1.00 ,1.00 
+Clemson University,2000,1.00 ,1.33 ,1.00 ,1.14 
+Clemson University,2001,1.00 ,1.25 ,1.00 ,1.00 
+Clemson University,2002,1.00 ,1.00 ,1.00 ,1.20 
+Clemson University,2003,1.00 ,1.00 ,1.00 ,1.33 
+Clemson University,2004,1.25 ,1.34 ,1.33 ,1.33 
+Clemson University,2005,1.00 ,1.29 ,1.33 ,1.38 
+Clemson University,2006,1.00 ,1.00 ,1.00 ,1.33 
+Clemson University,2007,1.78 ,1.37 ,1.00 ,1.37 
+Clemson University,2008,1.00 ,1.20 ,1.00 ,1.33 
+Clemson University,2009,1.00 ,1.00 ,1.00 ,1.35 
+Clemson University,2011,1.00 ,1.33 ,1.00 ,1.33 
+Clemson University,2012,1.00 ,1.21 ,1.00 ,1.23 
+Clemson University,2013,1.00 ,1.25 ,1.00 ,1.38 
+Clemson University,2014,1.00 ,1.33 ,1.00 ,1.32 
+Clemson University,2015,1.00 ,1.33 ,1.00 ,1.28 
+Clemson University,2016,1.00 ,1.09 ,1.00 ,1.59 
+Clemson University,2017,1.33 ,1.20 ,1.00 ,1.00 
+College of William and Mary,2000,1.00 ,1.50 ,1.00 ,1.00 
+College of William and Mary,2001,1.00 ,1.49 ,1.00 ,1.00 
+College of William and Mary,2002,1.00 ,1.50 ,1.00 ,1.00 
+College of William and Mary,2003,1.00 ,1.33 ,1.00 ,1.25 
+College of William and Mary,2004,1.00 ,1.25 ,1.00 ,1.00 
+College of William and Mary,2005,1.25 ,1.34 ,1.00 ,1.00 
+College of William and Mary,2006,1.00 ,1.21 ,1.00 ,1.14 
+College of William and Mary,2007,1.00 ,1.25 ,1.00 ,1.00 
+College of William and Mary,2008,1.00 ,1.33 ,1.00 ,1.28 
+College of William and Mary,2009,1.00 ,1.26 ,1.00 ,1.64 
+College of William and Mary,2010,1.00 ,1.28 ,1.00 ,1.20 
+College of William and Mary,2011,1.25 ,1.20 ,1.00 ,1.25 
+College of William and Mary,2012,1.33 ,1.30 ,1.20 ,1.20 
+College of William and Mary,2013,1.00 ,1.44 ,1.50 ,1.40 
+College of William and Mary,2014,1.25 ,1.27 ,1.00 ,1.65 
+College of William and Mary,2015,1.00 ,1.29 ,1.00 ,1.38 
+College of William and Mary,2016,1.21 ,1.82 ,1.00 ,1.25 
+College of William and Mary,2017,1.25 ,1.51 ,1.00 ,1.25 
+Colorado School of Mines,2000,1.00 ,1.33 ,1.00 ,1.33 
+Colorado School of Mines,2003,1.00 ,1.50 ,1.00 ,1.50 
+Colorado School of Mines,2006,1.00 ,1.25 ,1.00 ,1.00 
+Colorado School of Mines,2009,1.41 ,1.33 ,1.00 ,1.50 
+Colorado School of Mines,2010,1.83 ,1.25 ,1.00 ,1.33 
+Colorado School of Mines,2011,1.52 ,1.00 ,1.00 ,1.62 
+Colorado School of Mines,2012,1.33 ,1.25 ,1.00 ,1.91 
+Colorado School of Mines,2013,1.72 ,1.00 ,1.00 ,1.25 
+Colorado School of Mines,2014,1.47 ,1.35 ,1.00 ,1.56 
+Colorado School of Mines,2015,1.54 ,1.70 ,1.00 ,2.42 
+Colorado School of Mines,2016,2.12 ,1.00 ,1.00 ,1.41 
+Colorado School of Mines,2017,1.20 ,1.22 ,1.00 ,1.00 
+Colorado State University,2000,1.57 ,1.00 ,1.00 ,1.00 
+Colorado State University,2001,2.00 ,1.00 ,2.00 ,1.00 
+Colorado State University,2002,1.00 ,1.00 ,1.50 ,1.00 
+Colorado State University,2003,1.00 ,1.33 ,1.25 ,1.75 
+Colorado State University,2004,1.39 ,1.83 ,2.00 ,1.33 
+Colorado State University,2005,1.00 ,1.00 ,1.00 ,1.50 
+Colorado State University,2006,1.00 ,1.50 ,1.00 ,1.25 
+Colorado State University,2007,1.00 ,1.32 ,1.00 ,1.50 
+Colorado State University,2008,1.50 ,1.32 ,1.00 ,1.25 
+Colorado State University,2009,1.67 ,1.00 ,1.00 ,1.00 
+Colorado State University,2010,1.83 ,1.20 ,1.00 ,1.00 
+Colorado State University,2012,2.00 ,1.22 ,1.00 ,1.00 
+Colorado State University,2013,1.33 ,1.00 ,1.00 ,1.00 
+Colorado State University,2014,1.40 ,1.17 ,1.00 ,1.00 
+Colorado State University,2015,1.67 ,1.50 ,1.00 ,1.00 
+Colorado State University,2016,1.00 ,1.00 ,1.00 ,1.20 
+Colorado State University,2017,1.25 ,1.17 ,1.00 ,1.00 
+Columbia University,2000,2.09 ,1.69 ,2.34 ,1.90 
+Columbia University,2001,2.96 ,2.26 ,1.43 ,1.35 
+Columbia University,2002,1.99 ,1.85 ,1.89 ,1.67 
+Columbia University,2003,2.74 ,1.43 ,3.17 ,1.53 
+Columbia University,2004,2.62 ,1.48 ,1.53 ,1.66 
+Columbia University,2005,2.77 ,1.74 ,2.00 ,1.57 
+Columbia University,2006,2.62 ,1.78 ,4.00 ,2.14 
+Columbia University,2007,2.98 ,1.80 ,1.82 ,2.20 
+Columbia University,2008,2.68 ,1.40 ,5.23 ,1.51 
+Columbia University,2009,3.64 ,1.49 ,2.17 ,2.12 
+Columbia University,2010,2.58 ,1.60 ,2.12 ,1.80 
+Columbia University,2011,3.33 ,1.56 ,2.96 ,1.71 
+Columbia University,2012,3.72 ,1.53 ,3.33 ,1.97 
+Columbia University,2013,3.07 ,1.78 ,1.80 ,1.58 
+Columbia University,2014,3.15 ,1.84 ,3.15 ,2.01 
+Columbia University,2015,2.85 ,1.84 ,2.37 ,1.71 
+Columbia University,2016,2.19 ,1.67 ,2.01 ,2.13 
+Columbia University,2017,2.08 ,1.65 ,4.45 ,1.70 
+Cornell University,2000,2.92 ,1.68 ,5.63 ,1.58 
+Cornell University,2001,2.77 ,1.60 ,2.19 ,1.36 
+Cornell University,2002,2.63 ,1.52 ,2.33 ,2.17 
+Cornell University,2003,2.53 ,1.66 ,3.67 ,1.94 
+Cornell University,2004,2.24 ,1.92 ,3.29 ,1.50 
+Cornell University,2005,2.85 ,1.91 ,3.84 ,1.69 
+Cornell University,2006,2.87 ,1.67 ,2.40 ,2.29 
+Cornell University,2007,3.44 ,1.91 ,2.86 ,1.69 
+Cornell University,2008,3.31 ,1.69 ,2.16 ,1.97 
+Cornell University,2009,3.56 ,1.87 ,2.58 ,1.93 
+Cornell University,2010,2.57 ,1.96 ,2.17 ,2.35 
+Cornell University,2011,4.03 ,1.80 ,2.42 ,2.46 
+Cornell University,2012,3.66 ,1.73 ,2.89 ,2.70 
+Cornell University,2013,4.49 ,2.01 ,2.23 ,3.10 
+Cornell University,2014,3.66 ,2.02 ,1.74 ,2.54 
+Cornell University,2015,4.07 ,2.45 ,2.51 ,2.39 
+Cornell University,2016,3.29 ,2.31 ,1.53 ,2.88 
+Cornell University,2017,3.78 ,2.14 ,2.25 ,2.76 
+CUNY,2000,2.24 ,1.33 ,2.77 ,1.50 
+CUNY,2001,2.83 ,1.58 ,1.76 ,1.28 
+CUNY,2002,1.00 ,1.00 ,1.83 ,1.25 
+CUNY,2003,1.50 ,1.25 ,2.31 ,1.42 
+CUNY,2004,1.00 ,1.28 ,1.84 ,1.70 
+CUNY,2005,1.56 ,1.37 ,1.87 ,1.21 
+CUNY,2006,1.25 ,1.33 ,2.00 ,2.50 
+CUNY,2007,2.05 ,1.00 ,1.25 ,2.07 
+CUNY,2008,1.50 ,1.33 ,1.75 ,1.50 
+CUNY,2009,1.41 ,1.33 ,1.00 ,1.96 
+CUNY,2010,1.00 ,1.33 ,1.33 ,2.33 
+CUNY,2011,1.41 ,1.00 ,1.33 ,2.08 
+CUNY,2012,1.17 ,1.50 ,1.00 ,1.63 
+CUNY,2013,1.63 ,1.33 ,2.00 ,1.33 
+CUNY,2014,1.71 ,1.33 ,1.83 ,1.70 
+CUNY,2015,1.42 ,1.06 ,1.00 ,1.62 
+CUNY,2016,1.26 ,1.20 ,1.25 ,1.25 
+CUNY,2017,1.41 ,1.25 ,1.50 ,1.00 
+Dartmouth College,2000,1.00 ,1.50 ,1.00 ,1.49 
+Dartmouth College,2001,1.62 ,1.50 ,1.25 ,1.25 
+Dartmouth College,2002,1.50 ,1.50 ,1.00 ,1.70 
+Dartmouth College,2003,1.41 ,1.33 ,1.00 ,1.00 
+Dartmouth College,2004,1.50 ,1.33 ,2.08 ,1.41 
+Dartmouth College,2005,1.00 ,1.29 ,2.00 ,1.58 
+Dartmouth College,2006,2.08 ,1.20 ,1.25 ,1.78 
+Dartmouth College,2007,1.00 ,1.36 ,1.33 ,1.58 
+Dartmouth College,2008,1.33 ,1.38 ,2.62 ,1.67 
+Dartmouth College,2009,1.54 ,1.20 ,1.83 ,1.33 
+Dartmouth College,2010,1.49 ,1.33 ,1.25 ,1.47 
+Dartmouth College,2011,1.56 ,1.23 ,1.50 ,1.61 
+Dartmouth College,2012,1.91 ,1.19 ,1.58 ,1.72 
+Dartmouth College,2013,1.62 ,1.17 ,2.00 ,1.66 
+Dartmouth College,2014,2.17 ,1.27 ,1.25 ,1.33 
+Dartmouth College,2015,1.52 ,1.80 ,1.83 ,1.52 
+Dartmouth College,2016,1.75 ,1.89 ,2.00 ,1.96 
+Dartmouth College,2017,1.29 ,1.00 ,1.25 ,2.37 
+Drexel University,2000,1.00 ,1.00 ,1.00 ,1.37 
+Drexel University,2001,1.67 ,1.00 ,1.00 ,1.46 
+Drexel University,2002,1.20 ,1.00 ,1.00 ,1.37 
+Drexel University,2003,1.80 ,1.00 ,1.00 ,1.50 
+Drexel University,2004,2.09 ,1.50 ,1.00 ,1.33 
+Drexel University,2005,1.64 ,1.23 ,1.00 ,1.36 
+Drexel University,2006,1.33 ,1.50 ,1.00 ,1.00 
+Drexel University,2007,1.87 ,1.00 ,1.00 ,1.58 
+Drexel University,2008,1.41 ,1.28 ,1.00 ,1.23 
+Drexel University,2009,3.06 ,1.70 ,1.00 ,2.09 
+Drexel University,2010,1.94 ,1.00 ,1.00 ,1.00 
+Drexel University,2011,1.55 ,1.43 ,1.20 ,1.09 
+Drexel University,2012,3.33 ,1.71 ,1.00 ,1.17 
+Drexel University,2013,1.29 ,1.67 ,1.00 ,2.00 
+Drexel University,2014,1.50 ,1.37 ,1.00 ,1.63 
+Drexel University,2015,1.83 ,1.19 ,1.50 ,1.00 
+Drexel University,2016,1.54 ,1.34 ,1.00 ,1.00 
+Drexel University,2017,1.46 ,1.55 ,1.00 ,2.00 
+Duke University,2000,1.54 ,1.49 ,3.00 ,1.60 
+Duke University,2001,1.56 ,1.46 ,3.33 ,1.70 
+Duke University,2002,1.91 ,1.52 ,1.83 ,1.58 
+Duke University,2003,2.52 ,1.37 ,1.33 ,1.79 
+Duke University,2004,1.91 ,1.65 ,1.67 ,1.55 
+Duke University,2005,2.07 ,1.43 ,1.78 ,1.63 
+Duke University,2006,1.89 ,1.49 ,1.33 ,1.96 
+Duke University,2007,1.56 ,1.60 ,3.08 ,1.87 
+Duke University,2008,1.99 ,1.39 ,1.25 ,1.75 
+Duke University,2009,1.90 ,1.30 ,2.17 ,1.73 
+Duke University,2010,1.88 ,1.42 ,2.25 ,1.46 
+Duke University,2011,2.18 ,1.84 ,2.92 ,1.78 
+Duke University,2012,2.17 ,1.64 ,3.42 ,1.78 
+Duke University,2013,1.99 ,1.30 ,2.50 ,1.54 
+Duke University,2014,1.79 ,1.35 ,2.08 ,1.62 
+Duke University,2015,1.96 ,1.39 ,2.17 ,1.75 
+Duke University,2016,3.61 ,1.31 ,1.42 ,1.63 
+Duke University,2017,2.01 ,1.62 ,2.08 ,1.58 
+Emory University,2000,1.00 ,1.00 ,1.17 ,1.00 
+Emory University,2001,1.33 ,1.00 ,1.25 ,1.00 
+Emory University,2002,1.00 ,1.33 ,1.83 ,1.00 
+Emory University,2003,1.00 ,1.00 ,1.00 ,1.50 
+Emory University,2004,1.50 ,1.00 ,1.25 ,1.00 
+Emory University,2005,1.26 ,1.00 ,1.33 ,1.00 
+Emory University,2006,1.54 ,1.25 ,1.00 ,1.00 
+Emory University,2007,1.25 ,1.00 ,1.50 ,1.00 
+Emory University,2008,1.45 ,1.00 ,1.25 ,1.00 
+Emory University,2009,1.20 ,1.25 ,1.25 ,1.00 
+Emory University,2010,1.50 ,1.13 ,1.00 ,1.00 
+Emory University,2011,2.14 ,1.20 ,1.33 ,1.00 
+Emory University,2012,1.80 ,1.11 ,1.00 ,1.00 
+Emory University,2013,1.68 ,1.00 ,1.00 ,1.00 
+Emory University,2014,1.41 ,1.00 ,1.00 ,1.00 
+Emory University,2015,1.87 ,1.34 ,1.00 ,1.25 
+Emory University,2016,1.73 ,1.00 ,1.33 ,1.00 
+Emory University,2017,1.50 ,1.39 ,1.00 ,1.00 
+Florida State University,2000,1.50 ,1.50 ,1.00 ,1.00 
+Florida State University,2001,1.00 ,1.33 ,1.00 ,1.00 
+Florida State University,2002,1.33 ,1.25 ,1.00 ,1.00 
+Florida State University,2003,1.29 ,1.37 ,1.00 ,1.00 
+Florida State University,2004,1.58 ,1.26 ,1.00 ,1.00 
+Florida State University,2005,1.00 ,1.80 ,1.00 ,1.00 
+Florida State University,2006,1.00 ,1.78 ,1.20 ,1.00 
+Florida State University,2007,1.25 ,1.31 ,1.00 ,1.00 
+Florida State University,2008,1.00 ,1.47 ,1.00 ,1.00 
+Florida State University,2009,1.00 ,1.44 ,1.00 ,1.25 
+Florida State University,2010,1.20 ,1.42 ,1.00 ,1.00 
+Florida State University,2011,1.25 ,1.32 ,1.00 ,1.00 
+Florida State University,2012,1.00 ,1.32 ,1.00 ,1.00 
+Florida State University,2013,1.00 ,1.39 ,1.00 ,1.00 
+Florida State University,2014,1.23 ,1.33 ,1.00 ,1.20 
+Florida State University,2015,1.20 ,1.32 ,1.00 ,1.00 
+Florida State University,2016,1.14 ,1.27 ,1.00 ,1.00 
+Florida State University,2017,1.00 ,1.34 ,1.00 ,1.00 
+George Mason University,2000,1.40 ,1.48 ,1.00 ,2.00 
+George Mason University,2001,1.73 ,1.77 ,1.00 ,2.00 
+George Mason University,2002,1.26 ,1.65 ,1.00 ,1.83 
+George Mason University,2003,1.70 ,2.00 ,1.00 ,1.49 
+George Mason University,2004,1.20 ,1.77 ,1.00 ,1.70 
+George Mason University,2005,1.25 ,2.02 ,1.00 ,1.25 
+George Mason University,2006,1.67 ,1.36 ,1.00 ,1.91 
+George Mason University,2007,1.50 ,1.51 ,1.00 ,1.33 
+George Mason University,2008,1.41 ,1.55 ,1.25 ,1.73 
+George Mason University,2009,1.34 ,1.83 ,1.00 ,1.73 
+George Mason University,2010,1.00 ,1.44 ,1.50 ,1.00 
+George Mason University,2011,1.50 ,1.33 ,1.00 ,2.83 
+George Mason University,2012,1.40 ,1.43 ,1.00 ,1.34 
+George Mason University,2013,1.57 ,1.31 ,1.25 ,1.50 
+George Mason University,2014,1.33 ,1.43 ,1.11 ,1.66 
+George Mason University,2015,1.44 ,1.47 ,1.33 ,2.35 
+George Mason University,2016,1.21 ,1.32 ,1.00 ,1.33 
+George Mason University,2017,1.25 ,1.49 ,1.00 ,1.61 
+George Washington University,2000,1.00 ,1.00 ,1.33 ,1.00 
+George Washington University,2001,1.25 ,1.00 ,1.00 ,1.00 
+George Washington University,2002,1.50 ,1.00 ,1.00 ,1.00 
+George Washington University,2003,2.21 ,1.17 ,1.00 ,1.50 
+George Washington University,2004,2.00 ,1.00 ,1.00 ,1.83 
+George Washington University,2005,1.41 ,1.50 ,1.00 ,1.00 
+George Washington University,2006,1.63 ,1.00 ,1.00 ,2.00 
+George Washington University,2007,1.65 ,1.46 ,1.00 ,1.25 
+George Washington University,2008,1.46 ,1.50 ,1.00 ,1.00 
+George Washington University,2009,1.19 ,1.25 ,1.00 ,1.00 
+George Washington University,2010,1.36 ,1.14 ,1.00 ,2.00 
+George Washington University,2011,1.37 ,1.70 ,1.00 ,1.50 
+George Washington University,2012,1.65 ,1.65 ,1.00 ,1.50 
+George Washington University,2013,1.89 ,1.27 ,1.00 ,1.00 
+George Washington University,2014,1.20 ,1.44 ,1.00 ,1.50 
+George Washington University,2015,1.33 ,1.60 ,1.00 ,1.75 
+George Washington University,2016,1.50 ,1.45 ,1.00 ,1.00 
+George Washington University,2017,1.31 ,1.19 ,1.00 ,1.58 
+Georgetown University,2000,2.00 ,1.50 ,1.33 ,1.00 
+Georgetown University,2001,1.00 ,1.00 ,1.75 ,1.00 
+Georgetown University,2002,1.00 ,1.37 ,1.00 ,1.00 
+Georgetown University,2003,1.25 ,1.00 ,1.25 ,1.00 
+Georgetown University,2004,1.34 ,1.33 ,1.83 ,1.00 
+Georgetown University,2005,1.50 ,1.00 ,1.00 ,1.00 
+Georgetown University,2006,1.50 ,1.26 ,1.25 ,1.00 
+Georgetown University,2007,1.00 ,1.53 ,1.45 ,1.00 
+Georgetown University,2008,1.00 ,1.00 ,1.52 ,1.00 
+Georgetown University,2009,1.50 ,1.26 ,1.41 ,1.00 
+Georgetown University,2010,1.33 ,1.41 ,1.67 ,1.00 
+Georgetown University,2011,1.00 ,1.53 ,1.67 ,1.00 
+Georgetown University,2012,2.25 ,1.30 ,1.00 ,2.00 
+Georgetown University,2013,1.26 ,1.39 ,2.50 ,1.00 
+Georgetown University,2014,1.25 ,1.23 ,1.42 ,1.00 
+Georgetown University,2015,2.24 ,1.22 ,1.78 ,1.00 
+Georgetown University,2016,1.00 ,1.50 ,1.42 ,1.00 
+Georgetown University,2017,1.29 ,1.36 ,2.07 ,1.00 
+Georgia Institute of Technology,2000,1.73 ,1.57 ,2.27 ,1.77 
+Georgia Institute of Technology,2001,2.15 ,1.71 ,1.71 ,2.58 
+Georgia Institute of Technology,2002,1.72 ,1.46 ,2.03 ,2.43 
+Georgia Institute of Technology,2003,1.94 ,1.59 ,5.06 ,2.56 
+Georgia Institute of Technology,2004,1.94 ,1.65 ,2.08 ,2.85 
+Georgia Institute of Technology,2005,2.27 ,1.74 ,2.37 ,2.35 
+Georgia Institute of Technology,2006,2.69 ,2.10 ,4.25 ,2.82 
+Georgia Institute of Technology,2007,2.60 ,1.91 ,2.01 ,2.03 
+Georgia Institute of Technology,2008,2.48 ,1.78 ,2.00 ,2.61 
+Georgia Institute of Technology,2009,2.83 ,1.99 ,1.65 ,2.28 
+Georgia Institute of Technology,2010,2.10 ,1.74 ,3.83 ,2.57 
+Georgia Institute of Technology,2011,2.89 ,1.74 ,2.24 ,2.17 
+Georgia Institute of Technology,2012,2.81 ,2.11 ,1.64 ,3.21 
+Georgia Institute of Technology,2013,3.48 ,1.87 ,2.05 ,1.78 
+Georgia Institute of Technology,2014,3.35 ,1.93 ,3.31 ,2.94 
+Georgia Institute of Technology,2015,4.26 ,1.92 ,2.67 ,2.66 
+Georgia Institute of Technology,2016,3.97 ,1.78 ,4.10 ,2.52 
+Georgia Institute of Technology,2017,3.59 ,1.80 ,2.23 ,2.80 
+Harvard University,2000,2.00 ,1.60 ,5.16 ,1.98 
+Harvard University,2001,1.33 ,1.41 ,2.47 ,1.59 
+Harvard University,2002,1.25 ,1.27 ,4.17 ,2.00 
+Harvard University,2003,1.37 ,1.36 ,3.21 ,1.49 
+Harvard University,2004,1.53 ,1.34 ,4.32 ,1.44 
+Harvard University,2005,1.49 ,1.45 ,1.85 ,1.69 
+Harvard University,2006,2.00 ,1.71 ,2.31 ,1.53 
+Harvard University,2007,1.54 ,1.48 ,1.70 ,1.66 
+Harvard University,2008,1.69 ,1.55 ,2.69 ,1.44 
+Harvard University,2009,1.94 ,1.46 ,1.89 ,1.56 
+Harvard University,2010,2.36 ,1.60 ,2.90 ,1.60 
+Harvard University,2011,1.75 ,1.36 ,2.07 ,1.63 
+Harvard University,2012,1.73 ,1.39 ,2.14 ,1.69 
+Harvard University,2013,1.84 ,1.86 ,2.28 ,1.73 
+Harvard University,2014,1.47 ,1.73 ,1.79 ,2.02 
+Harvard University,2015,2.38 ,1.42 ,3.70 ,1.63 
+Harvard University,2016,3.25 ,1.50 ,3.03 ,1.63 
+Harvard University,2017,2.00 ,1.38 ,3.83 ,1.57 
+Indiana University,2000,1.00 ,1.48 ,1.75 ,1.13 
+Indiana University,2001,2.00 ,1.21 ,1.87 ,1.41 
+Indiana University,2002,1.00 ,2.06 ,1.00 ,1.20 
+Indiana University,2003,1.00 ,1.45 ,1.29 ,1.00 
+Indiana University,2004,1.50 ,1.79 ,2.00 ,1.33 
+Indiana University,2005,1.33 ,2.84 ,1.00 ,2.12 
+Indiana University,2006,2.00 ,2.10 ,1.83 ,1.61 
+Indiana University,2007,1.73 ,1.41 ,1.00 ,2.38 
+Indiana University,2008,1.45 ,1.56 ,1.50 ,1.86 
+Indiana University,2009,1.66 ,1.88 ,2.00 ,1.84 
+Indiana University,2010,2.00 ,2.03 ,2.00 ,1.74 
+Indiana University,2011,1.84 ,1.49 ,1.50 ,2.33 
+Indiana University,2012,1.44 ,1.70 ,2.45 ,1.31 
+Indiana University,2013,1.70 ,1.68 ,1.76 ,2.30 
+Indiana University,2014,1.39 ,2.11 ,1.76 ,1.60 
+Indiana University,2015,1.58 ,2.14 ,1.58 ,1.90 
+Indiana University,2016,1.53 ,1.79 ,1.75 ,2.15 
+Indiana University,2017,1.56 ,1.92 ,1.41 ,2.00 
+Iowa State University,2000,1.00 ,1.67 ,1.50 ,2.67 
+Iowa State University,2001,1.00 ,1.00 ,1.00 ,2.35 
+Iowa State University,2002,2.00 ,1.00 ,1.00 ,1.76 
+Iowa State University,2003,1.00 ,1.20 ,1.50 ,2.33 
+Iowa State University,2004,2.00 ,1.00 ,1.00 ,1.55 
+Iowa State University,2005,2.00 ,1.64 ,1.00 ,1.00 
+Iowa State University,2006,1.33 ,1.33 ,1.33 ,1.83 
+Iowa State University,2007,2.33 ,1.00 ,1.33 ,1.25 
+Iowa State University,2008,1.25 ,1.60 ,1.00 ,1.62 
+Iowa State University,2009,2.00 ,1.58 ,1.00 ,1.50 
+Iowa State University,2010,1.33 ,1.47 ,1.00 ,1.00 
+Iowa State University,2011,1.97 ,1.41 ,1.00 ,1.33 
+Iowa State University,2012,1.83 ,1.33 ,1.17 ,1.00 
+Iowa State University,2013,1.33 ,2.45 ,1.00 ,1.67 
+Iowa State University,2014,2.17 ,2.88 ,1.00 ,1.50 
+Iowa State University,2015,1.27 ,1.34 ,1.00 ,2.83 
+Iowa State University,2016,1.00 ,1.60 ,1.00 ,1.33 
+Iowa State University,2017,1.58 ,1.25 ,1.00 ,1.00 
+IUPUI,2004,1.25 ,1.20 ,1.00 ,1.00 
+IUPUI,2005,1.50 ,1.00 ,1.00 ,1.00 
+IUPUI,2006,1.25 ,1.00 ,1.00 ,1.00 
+IUPUI,2007,1.68 ,1.33 ,1.00 ,1.00 
+IUPUI,2008,1.40 ,1.00 ,1.00 ,1.00 
+IUPUI,2009,1.47 ,1.41 ,1.00 ,1.00 
+IUPUI,2010,1.00 ,1.75 ,1.00 ,1.00 
+IUPUI,2012,1.17 ,1.33 ,1.00 ,1.00 
+IUPUI,2013,1.33 ,1.00 ,1.00 ,1.00 
+IUPUI,2014,2.67 ,1.50 ,1.00 ,1.00 
+IUPUI,2015,1.14 ,1.00 ,1.00 ,1.00 
+IUPUI,2017,1.00 ,1.10 ,1.00 ,1.00 
+Johns Hopkins University,2000,1.51 ,1.41 ,1.00 ,1.38 
+Johns Hopkins University,2001,2.00 ,1.00 ,1.00 ,1.75 
+Johns Hopkins University,2002,1.90 ,1.33 ,1.00 ,1.92 
+Johns Hopkins University,2003,2.45 ,1.30 ,1.00 ,4.75 
+Johns Hopkins University,2004,1.83 ,1.94 ,1.00 ,1.81 
+Johns Hopkins University,2005,2.41 ,1.65 ,1.33 ,1.76 
+Johns Hopkins University,2006,2.64 ,1.48 ,1.00 ,1.95 
+Johns Hopkins University,2007,1.82 ,1.50 ,1.41 ,2.44 
+Johns Hopkins University,2008,2.12 ,1.20 ,1.25 ,1.66 
+Johns Hopkins University,2009,2.28 ,1.20 ,1.75 ,1.90 
+Johns Hopkins University,2010,1.84 ,1.36 ,2.14 ,1.85 
+Johns Hopkins University,2011,1.87 ,1.52 ,1.71 ,1.99 
+Johns Hopkins University,2012,3.92 ,1.48 ,2.64 ,1.84 
+Johns Hopkins University,2013,4.28 ,1.70 ,2.98 ,2.59 
+Johns Hopkins University,2014,2.84 ,2.41 ,1.78 ,3.33 
+Johns Hopkins University,2015,2.33 ,1.61 ,2.21 ,1.98 
+Johns Hopkins University,2016,2.35 ,1.83 ,4.33 ,1.79 
+Johns Hopkins University,2017,2.11 ,1.63 ,2.51 ,1.41 
+Kansas State University,2000,1.00 ,1.29 ,1.00 ,1.00 
+Kansas State University,2001,1.33 ,1.25 ,1.00 ,1.00 
+Kansas State University,2002,1.00 ,1.50 ,1.00 ,1.00 
+Kansas State University,2003,1.00 ,1.45 ,1.00 ,1.00 
+Kansas State University,2004,1.00 ,1.29 ,1.00 ,1.50 
+Kansas State University,2006,1.00 ,1.33 ,1.00 ,1.00 
+Kansas State University,2009,1.00 ,1.28 ,1.00 ,1.00 
+Kansas State University,2010,1.33 ,1.00 ,1.00 ,1.00 
+Kansas State University,2011,1.25 ,1.00 ,1.00 ,1.00 
+Kansas State University,2012,1.33 ,1.00 ,1.00 ,1.00 
+Kansas State University,2013,1.25 ,1.41 ,1.50 ,1.25 
+Kansas State University,2014,1.43 ,1.29 ,1.00 ,1.50 
+Kansas State University,2015,1.33 ,1.50 ,1.00 ,1.00 
+Kansas State University,2016,1.41 ,1.50 ,1.50 ,1.00 
+Kansas State University,2017,1.37 ,1.00 ,1.00 ,1.00 
+Massachusetts Institute of Technology,2000,2.48 ,2.20 ,3.27 ,1.70 
+Massachusetts Institute of Technology,2001,2.43 ,2.02 ,3.54 ,1.78 
+Massachusetts Institute of Technology,2002,1.96 ,1.90 ,3.00 ,2.11 
+Massachusetts Institute of Technology,2003,2.54 ,1.94 ,2.18 ,1.60 
+Massachusetts Institute of Technology,2004,2.10 ,1.68 ,2.54 ,2.44 
+Massachusetts Institute of Technology,2005,2.56 ,1.98 ,5.58 ,2.03 
+Massachusetts Institute of Technology,2006,2.58 ,1.92 ,3.18 ,2.38 
+Massachusetts Institute of Technology,2007,3.61 ,2.07 ,3.15 ,2.65 
+Massachusetts Institute of Technology,2008,3.34 ,2.24 ,3.88 ,2.10 
+Massachusetts Institute of Technology,2009,2.67 ,1.92 ,8.40 ,2.59 
+Massachusetts Institute of Technology,2010,3.23 ,2.49 ,5.56 ,3.17 
+Massachusetts Institute of Technology,2011,3.83 ,2.17 ,3.00 ,3.05 
+Massachusetts Institute of Technology,2012,2.86 ,2.35 ,2.92 ,3.21 
+Massachusetts Institute of Technology,2013,3.04 ,2.46 ,2.98 ,2.68 
+Massachusetts Institute of Technology,2014,2.95 ,2.22 ,2.73 ,3.83 
+Massachusetts Institute of Technology,2015,4.41 ,2.41 ,2.93 ,3.30 
+Massachusetts Institute of Technology,2016,5.30 ,2.40 ,4.54 ,2.74 
+Massachusetts Institute of Technology,2017,2.52 ,2.18 ,4.01 ,3.44 
+Michigan State University,2000,1.25 ,1.41 ,1.00 ,1.00 
+Michigan State University,2001,2.78 ,2.50 ,1.50 ,1.00 
+Michigan State University,2002,1.67 ,1.00 ,1.25 ,1.00 
+Michigan State University,2003,1.73 ,1.17 ,1.00 ,1.28 
+Michigan State University,2004,1.51 ,1.20 ,1.50 ,1.50 
+Michigan State University,2005,1.55 ,1.50 ,1.00 ,1.37 
+Michigan State University,2006,1.56 ,1.50 ,1.00 ,1.36 
+Michigan State University,2007,2.01 ,1.25 ,1.00 ,1.32 
+Michigan State University,2008,1.63 ,1.18 ,1.00 ,1.32 
+Michigan State University,2009,1.69 ,1.30 ,1.00 ,1.54 
+Michigan State University,2010,1.95 ,1.46 ,1.00 ,1.73 
+Michigan State University,2011,1.83 ,1.40 ,1.00 ,1.32 
+Michigan State University,2012,1.38 ,1.32 ,1.00 ,1.34 
+Michigan State University,2013,1.57 ,1.36 ,1.00 ,1.26 
+Michigan State University,2014,1.62 ,1.37 ,1.00 ,1.53 
+Michigan State University,2015,1.84 ,1.29 ,1.75 ,1.32 
+Michigan State University,2016,2.07 ,1.33 ,1.00 ,1.42 
+Michigan State University,2017,1.80 ,1.00 ,1.00 ,1.20 
+Naval Postgraduate School,2000,1.00 ,1.50 ,1.00 ,1.00 
+Naval Postgraduate School,2007,1.00 ,1.25 ,1.00 ,1.00 
+Naval Postgraduate School,2009,1.00 ,1.25 ,1.00 ,1.00 
+Naval Postgraduate School,2010,1.00 ,1.33 ,1.00 ,1.00 
+Naval Postgraduate School,2011,1.00 ,1.33 ,1.00 ,1.00 
+Naval Postgraduate School,2013,1.00 ,1.31 ,1.00 ,1.00 
+Naval Postgraduate School,2014,1.00 ,1.33 ,1.00 ,1.00 
+Naval Postgraduate School,2015,1.00 ,1.20 ,1.00 ,1.00 
+Naval Postgraduate School,2016,1.00 ,2.00 ,1.00 ,1.17 
+Naval Postgraduate School,2017,1.00 ,1.50 ,1.00 ,1.00 
+New Mexico State University,2003,1.00 ,1.00 ,1.00 ,1.25 
+New Mexico State University,2004,1.36 ,1.00 ,1.00 ,1.00 
+New Mexico State University,2005,1.25 ,1.00 ,1.00 ,1.00 
+New Mexico State University,2006,1.67 ,1.00 ,1.00 ,1.00 
+New Mexico State University,2007,1.33 ,1.33 ,1.00 ,1.50 
+New Mexico State University,2008,2.00 ,1.33 ,1.00 ,1.00 
+New Mexico State University,2009,1.50 ,1.00 ,1.00 ,1.00 
+New Mexico State University,2010,1.67 ,1.00 ,1.00 ,1.00 
+New Mexico State University,2011,4.42 ,1.20 ,1.00 ,1.25 
+New Mexico State University,2012,1.00 ,1.33 ,1.00 ,1.00 
+New Mexico State University,2013,1.00 ,1.25 ,1.00 ,1.00 
+New Mexico State University,2014,1.33 ,1.13 ,1.00 ,1.00 
+New Mexico State University,2015,2.00 ,1.00 ,1.00 ,1.00 
+New Mexico State University,2016,1.78 ,1.00 ,1.00 ,1.00 
+New Mexico State University,2017,1.45 ,1.17 ,1.00 ,1.00 
+New York University,2000,1.50 ,1.45 ,3.04 ,2.17 
+New York University,2001,1.41 ,1.36 ,2.49 ,1.94 
+New York University,2002,1.33 ,1.64 ,3.14 ,1.25 
+New York University,2003,1.88 ,1.55 ,3.50 ,1.89 
+New York University,2004,1.70 ,1.73 ,3.75 ,1.29 
+New York University,2005,2.20 ,1.39 ,2.24 ,1.64 
+New York University,2006,1.61 ,1.56 ,3.52 ,1.42 
+New York University,2007,1.74 ,1.18 ,1.69 ,1.36 
+New York University,2008,1.65 ,1.38 ,2.51 ,1.77 
+New York University,2009,1.95 ,1.57 ,2.16 ,2.21 
+New York University,2010,1.80 ,1.49 ,2.20 ,1.70 
+New York University,2011,1.97 ,1.50 ,1.95 ,2.26 
+New York University,2012,1.67 ,1.99 ,2.35 ,1.97 
+New York University,2013,1.72 ,1.67 ,1.62 ,1.81 
+New York University,2014,3.01 ,1.58 ,2.78 ,2.08 
+New York University,2015,2.28 ,1.84 ,2.11 ,1.67 
+New York University,2016,2.89 ,1.61 ,2.80 ,1.69 
+New York University,2017,1.95 ,1.53 ,2.04 ,2.03 
+NJIT,2000,1.00 ,1.25 ,1.00 ,1.00 
+NJIT,2001,1.50 ,1.25 ,1.00 ,1.00 
+NJIT,2003,1.00 ,1.00 ,1.00 ,1.25 
+NJIT,2005,1.00 ,1.22 ,1.00 ,1.00 
+NJIT,2006,1.00 ,1.25 ,1.00 ,1.00 
+NJIT,2007,1.50 ,1.17 ,1.00 ,1.00 
+NJIT,2008,1.22 ,1.21 ,1.00 ,1.00 
+NJIT,2009,1.33 ,1.28 ,1.00 ,1.00 
+NJIT,2010,1.00 ,1.17 ,1.00 ,1.00 
+NJIT,2011,1.00 ,1.41 ,1.00 ,1.00 
+NJIT,2012,1.00 ,1.27 ,1.00 ,1.00 
+NJIT,2013,1.00 ,1.37 ,1.00 ,1.00 
+NJIT,2014,1.00 ,1.27 ,1.00 ,1.00 
+NJIT,2015,1.50 ,1.33 ,1.00 ,1.25 
+NJIT,2016,1.11 ,1.26 ,1.00 ,1.50 
+North Carolina State University,2000,1.00 ,1.50 ,1.00 ,1.29 
+North Carolina State University,2001,3.50 ,1.53 ,1.00 ,1.41 
+North Carolina State University,2002,1.50 ,1.41 ,1.00 ,1.28 
+North Carolina State University,2003,1.00 ,1.27 ,1.00 ,1.25 
+North Carolina State University,2004,1.20 ,1.55 ,1.00 ,1.33 
+North Carolina State University,2005,2.00 ,1.74 ,1.00 ,1.50 
+North Carolina State University,2006,2.53 ,1.48 ,1.00 ,1.00 
+North Carolina State University,2007,3.58 ,1.52 ,1.00 ,1.25 
+North Carolina State University,2008,2.50 ,1.74 ,1.00 ,1.33 
+North Carolina State University,2009,1.00 ,1.82 ,1.00 ,1.00 
+North Carolina State University,2010,1.00 ,1.42 ,1.00 ,1.34 
+North Carolina State University,2011,1.35 ,1.63 ,1.00 ,1.50 
+North Carolina State University,2012,1.58 ,1.64 ,1.50 ,1.00 
+North Carolina State University,2013,1.83 ,1.61 ,1.25 ,1.00 
+North Carolina State University,2014,1.31 ,1.73 ,1.25 ,1.59 
+North Carolina State University,2015,1.45 ,1.58 ,1.29 ,1.00 
+North Carolina State University,2016,1.75 ,1.77 ,1.40 ,1.45 
+North Carolina State University,2017,1.31 ,1.75 ,1.33 ,1.00 
+Northeastern University,2000,2.00 ,1.50 ,1.50 ,2.00 
+Northeastern University,2001,1.39 ,1.40 ,1.50 ,1.41 
+Northeastern University,2002,1.49 ,1.73 ,1.96 ,1.63 
+Northeastern University,2003,1.55 ,1.37 ,1.63 ,1.31 
+Northeastern University,2004,1.58 ,1.68 ,1.67 ,1.79 
+Northeastern University,2005,1.61 ,1.65 ,1.70 ,1.87 
+Northeastern University,2006,1.41 ,1.60 ,1.36 ,1.42 
+Northeastern University,2007,1.56 ,1.68 ,1.84 ,1.53 
+Northeastern University,2008,1.53 ,1.59 ,1.67 ,1.00 
+Northeastern University,2009,2.16 ,1.49 ,2.24 ,1.78 
+Northeastern University,2010,1.54 ,1.82 ,1.76 ,1.90 
+Northeastern University,2011,1.71 ,2.04 ,2.64 ,1.63 
+Northeastern University,2012,1.73 ,1.48 ,1.91 ,1.38 
+Northeastern University,2013,1.88 ,1.93 ,2.51 ,1.70 
+Northeastern University,2014,1.82 ,1.67 ,2.74 ,1.82 
+Northeastern University,2015,2.32 ,1.80 ,2.19 ,1.63 
+Northeastern University,2016,2.57 ,1.84 ,3.30 ,1.26 
+Northeastern University,2017,2.42 ,1.86 ,1.95 ,1.75 
+Northern Arizona University,2001,1.00 ,1.00 ,1.33 ,1.00 
+Northern Arizona University,2002,1.00 ,1.50 ,1.00 ,1.00 
+Northern Arizona University,2003,1.00 ,1.20 ,1.00 ,1.00 
+Northern Arizona University,2004,1.00 ,1.33 ,1.00 ,1.00 
+Northern Arizona University,2006,1.00 ,1.25 ,1.00 ,1.11 
+Northern Arizona University,2008,1.00 ,1.25 ,1.00 ,1.00 
+Northern Arizona University,2011,1.00 ,1.14 ,1.00 ,1.00 
+Northern Arizona University,2012,1.00 ,1.26 ,1.00 ,1.00 
+Northern Arizona University,2013,1.00 ,1.15 ,1.00 ,1.00 
+Northern Arizona University,2014,1.20 ,1.67 ,1.00 ,1.00 
+Northern Arizona University,2015,1.00 ,1.44 ,1.00 ,1.00 
+Northern Arizona University,2016,1.00 ,2.10 ,1.00 ,1.00 
+Northern Arizona University,2017,1.00 ,1.33 ,1.00 ,1.33 
+Northwestern University,2000,1.83 ,2.67 ,1.53 ,1.25 
+Northwestern University,2001,1.00 ,1.38 ,1.73 ,1.00 
+Northwestern University,2002,1.41 ,1.56 ,1.25 ,1.50 
+Northwestern University,2003,1.20 ,1.74 ,1.50 ,2.00 
+Northwestern University,2004,1.24 ,2.13 ,1.25 ,1.58 
+Northwestern University,2005,1.78 ,1.83 ,3.08 ,1.58 
+Northwestern University,2006,1.50 ,1.48 ,3.00 ,1.53 
+Northwestern University,2007,1.73 ,1.64 ,2.33 ,1.63 
+Northwestern University,2008,1.45 ,1.71 ,2.20 ,1.41 
+Northwestern University,2009,1.33 ,1.59 ,1.33 ,1.78 
+Northwestern University,2010,1.41 ,1.42 ,1.98 ,1.41 
+Northwestern University,2011,1.60 ,1.57 ,2.56 ,1.58 
+Northwestern University,2012,1.52 ,1.50 ,3.53 ,1.38 
+Northwestern University,2013,2.07 ,1.31 ,1.83 ,1.56 
+Northwestern University,2014,1.29 ,1.55 ,4.28 ,1.69 
+Northwestern University,2015,1.61 ,1.29 ,3.37 ,1.60 
+Northwestern University,2016,1.37 ,1.31 ,1.58 ,1.93 
+Northwestern University,2017,1.62 ,1.26 ,2.83 ,1.25 
+Ohio State University,2000,1.00 ,1.58 ,1.00 ,2.25 
+Ohio State University,2001,1.50 ,1.41 ,1.25 ,1.84 
+Ohio State University,2002,2.00 ,1.42 ,2.08 ,2.33 
+Ohio State University,2003,1.71 ,1.68 ,1.33 ,2.26 
+Ohio State University,2004,1.33 ,1.72 ,1.00 ,2.12 
+Ohio State University,2005,1.51 ,1.59 ,1.67 ,1.41 
+Ohio State University,2006,1.51 ,1.72 ,2.58 ,2.75 
+Ohio State University,2007,1.50 ,1.72 ,1.33 ,1.50 
+Ohio State University,2008,1.29 ,1.75 ,1.50 ,1.66 
+Ohio State University,2009,1.30 ,1.57 ,2.33 ,1.34 
+Ohio State University,2010,1.67 ,1.53 ,3.00 ,1.79 
+Ohio State University,2011,1.81 ,1.60 ,1.00 ,1.33 
+Ohio State University,2012,1.73 ,1.54 ,1.00 ,1.50 
+Ohio State University,2013,1.77 ,1.61 ,1.67 ,2.24 
+Ohio State University,2014,2.07 ,1.66 ,1.00 ,1.53 
+Ohio State University,2015,1.39 ,1.50 ,1.25 ,1.71 
+Ohio State University,2016,1.88 ,1.55 ,2.00 ,1.57 
+Ohio State University,2017,1.88 ,1.47 ,2.00 ,2.03 
+OHSU,2005,1.50 ,1.00 ,1.00 ,1.00 
+OHSU,2007,2.50 ,1.00 ,1.00 ,1.00 
+OHSU,2010,1.50 ,1.00 ,1.00 ,1.00 
+OHSU,2013,1.25 ,1.00 ,1.00 ,1.00 
+OHSU,2015,1.25 ,1.00 ,1.00 ,1.00 
+OHSU,2017,1.33 ,1.00 ,1.00 ,1.00 
+Old Dominion University,2003,1.00 ,1.50 ,1.00 ,1.00 
+Old Dominion University,2004,1.00 ,2.00 ,1.00 ,1.00 
+Old Dominion University,2005,1.00 ,1.33 ,1.00 ,1.00 
+Old Dominion University,2006,1.00 ,1.11 ,1.00 ,1.00 
+Old Dominion University,2008,1.00 ,2.00 ,1.00 ,1.00 
+Old Dominion University,2011,1.17 ,1.00 ,1.00 ,2.00 
+Old Dominion University,2012,1.33 ,1.00 ,1.00 ,1.00 
+Old Dominion University,2013,1.00 ,1.50 ,1.00 ,1.00 
+Old Dominion University,2015,1.20 ,1.17 ,1.00 ,1.00 
+Old Dominion University,2016,1.20 ,1.25 ,1.00 ,1.00 
+Old Dominion University,2017,1.53 ,1.00 ,1.00 ,1.00 
+Oregon State University,2000,1.50 ,1.17 ,1.00 ,1.25 
+Oregon State University,2002,1.96 ,1.20 ,1.00 ,1.41 
+Oregon State University,2003,3.42 ,1.41 ,1.00 ,1.22 
+Oregon State University,2004,1.73 ,1.00 ,1.00 ,1.81 
+Oregon State University,2005,2.20 ,1.61 ,1.00 ,1.17 
+Oregon State University,2006,1.49 ,1.32 ,1.50 ,1.31 
+Oregon State University,2007,2.83 ,2.01 ,1.41 ,2.00 
+Oregon State University,2008,1.72 ,2.23 ,1.41 ,1.30 
+Oregon State University,2009,2.14 ,1.48 ,1.33 ,1.25 
+Oregon State University,2010,2.49 ,1.00 ,1.33 ,1.36 
+Oregon State University,2011,2.26 ,1.58 ,2.20 ,1.29 
+Oregon State University,2012,2.84 ,1.57 ,2.00 ,1.70 
+Oregon State University,2013,2.04 ,1.50 ,1.25 ,1.62 
+Oregon State University,2014,2.72 ,1.80 ,1.37 ,1.25 
+Oregon State University,2015,2.55 ,1.43 ,1.70 ,1.00 
+Oregon State University,2016,2.08 ,1.91 ,1.50 ,2.08 
+Oregon State University,2017,2.16 ,1.43 ,2.07 ,1.39 
+Pennsylvania State University,2000,1.83 ,1.74 ,2.33 ,1.00 
+Pennsylvania State University,2001,1.80 ,1.77 ,1.25 ,1.50 
+Pennsylvania State University,2002,1.58 ,2.20 ,2.33 ,1.50 
+Pennsylvania State University,2003,2.09 ,1.73 ,1.83 ,1.14 
+Pennsylvania State University,2004,2.17 ,1.65 ,1.00 ,1.33 
+Pennsylvania State University,2005,2.23 ,1.64 ,2.00 ,1.33 
+Pennsylvania State University,2006,1.64 ,1.82 ,1.70 ,1.00 
+Pennsylvania State University,2007,1.72 ,1.55 ,2.17 ,1.00 
+Pennsylvania State University,2008,2.39 ,1.86 ,1.00 ,1.39 
+Pennsylvania State University,2009,1.55 ,1.82 ,1.00 ,1.93 
+Pennsylvania State University,2010,1.55 ,1.58 ,1.50 ,1.00 
+Pennsylvania State University,2011,1.43 ,2.32 ,1.33 ,1.20 
+Pennsylvania State University,2012,1.78 ,1.92 ,1.00 ,1.13 
+Pennsylvania State University,2013,1.83 ,1.62 ,1.00 ,1.50 
+Pennsylvania State University,2014,1.50 ,1.94 ,1.58 ,1.17 
+Pennsylvania State University,2015,1.70 ,1.80 ,1.00 ,1.81 
+Pennsylvania State University,2016,1.62 ,1.51 ,1.00 ,1.63 
+Pennsylvania State University,2017,1.87 ,2.08 ,1.00 ,1.31 
+Princeton University,2000,3.50 ,1.60 ,2.00 ,1.85 
+Princeton University,2001,1.66 ,1.73 ,2.86 ,1.46 
+Princeton University,2002,2.38 ,1.75 ,2.66 ,1.62 
+Princeton University,2003,1.63 ,1.85 ,1.49 ,1.73 
+Princeton University,2004,3.03 ,1.82 ,2.34 ,1.78 
+Princeton University,2005,1.71 ,1.95 ,4.17 ,1.66 
+Princeton University,2006,3.75 ,2.12 ,3.37 ,1.80 
+Princeton University,2007,1.95 ,1.89 ,2.07 ,1.70 
+Princeton University,2008,1.83 ,1.79 ,5.00 ,2.32 
+Princeton University,2009,3.11 ,1.73 ,2.01 ,2.42 
+Princeton University,2010,1.54 ,2.83 ,4.50 ,1.49 
+Princeton University,2011,2.25 ,1.83 ,1.85 ,1.23 
+Princeton University,2012,2.24 ,1.65 ,2.80 ,2.07 
+Princeton University,2013,2.18 ,1.60 ,2.97 ,1.44 
+Princeton University,2014,2.72 ,1.80 ,2.65 ,1.66 
+Princeton University,2015,2.15 ,1.83 ,2.02 ,1.52 
+Princeton University,2016,2.59 ,1.87 ,2.93 ,1.70 
+Princeton University,2017,2.33 ,1.75 ,2.41 ,1.38 
+Purdue University,2000,2.00 ,1.41 ,1.50 ,1.25 
+Purdue University,2001,2.50 ,1.56 ,1.50 ,1.84 
+Purdue University,2002,1.83 ,1.75 ,2.58 ,1.21 
+Purdue University,2003,2.92 ,2.16 ,1.50 ,1.30 
+Purdue University,2004,1.67 ,2.02 ,1.00 ,2.26 
+Purdue University,2005,1.38 ,1.76 ,2.83 ,1.97 
+Purdue University,2006,1.29 ,1.88 ,1.33 ,1.83 
+Purdue University,2007,1.26 ,1.81 ,2.25 ,1.43 
+Purdue University,2008,1.44 ,1.53 ,1.45 ,1.76 
+Purdue University,2009,1.66 ,1.49 ,2.53 ,1.58 
+Purdue University,2010,1.78 ,1.88 ,1.70 ,1.78 
+Purdue University,2011,2.04 ,1.64 ,2.33 ,1.33 
+Purdue University,2012,1.79 ,1.91 ,1.50 ,1.39 
+Purdue University,2013,1.77 ,1.97 ,1.70 ,1.73 
+Purdue University,2014,2.14 ,1.80 ,1.25 ,1.00 
+Purdue University,2015,2.63 ,1.82 ,1.60 ,1.46 
+Purdue University,2016,2.19 ,1.85 ,1.61 ,1.42 
+Purdue University,2017,2.10 ,2.20 ,1.67 ,1.55 
+Rensselaer Polytechnic Institute,2000,1.50 ,1.25 ,1.00 ,2.70 
+Rensselaer Polytechnic Institute,2001,1.00 ,1.33 ,1.00 ,1.66 
+Rensselaer Polytechnic Institute,2002,1.00 ,1.33 ,1.33 ,1.52 
+Rensselaer Polytechnic Institute,2003,1.50 ,1.33 ,1.25 ,1.00 
+Rensselaer Polytechnic Institute,2004,1.00 ,1.25 ,1.17 ,1.55 
+Rensselaer Polytechnic Institute,2005,1.83 ,1.73 ,1.00 ,1.50 
+Rensselaer Polytechnic Institute,2006,1.50 ,1.53 ,1.33 ,1.53 
+Rensselaer Polytechnic Institute,2007,1.56 ,1.50 ,1.75 ,1.42 
+Rensselaer Polytechnic Institute,2008,1.60 ,1.00 ,1.00 ,2.00 
+Rensselaer Polytechnic Institute,2009,1.75 ,2.00 ,1.00 ,1.29 
+Rensselaer Polytechnic Institute,2010,1.96 ,1.00 ,1.25 ,1.83 
+Rensselaer Polytechnic Institute,2011,2.00 ,1.00 ,1.67 ,1.63 
+Rensselaer Polytechnic Institute,2012,1.78 ,1.44 ,1.00 ,1.73 
+Rensselaer Polytechnic Institute,2013,1.66 ,1.00 ,1.17 ,2.00 
+Rensselaer Polytechnic Institute,2014,1.92 ,1.00 ,1.00 ,1.83 
+Rensselaer Polytechnic Institute,2015,2.42 ,1.25 ,1.00 ,2.04 
+Rensselaer Polytechnic Institute,2016,2.61 ,1.00 ,1.00 ,1.83 
+Rensselaer Polytechnic Institute,2017,2.00 ,1.00 ,1.00 ,2.00 
+Rice University,2000,1.50 ,1.43 ,1.95 ,4.25 
+Rice University,2001,1.00 ,1.39 ,1.89 ,1.95 
+Rice University,2002,1.00 ,1.44 ,1.33 ,1.71 
+Rice University,2003,2.00 ,1.50 ,2.14 ,1.20 
+Rice University,2004,1.33 ,1.63 ,2.08 ,1.70 
+Rice University,2005,1.20 ,1.42 ,1.47 ,1.83 
+Rice University,2006,1.50 ,1.46 ,2.67 ,1.25 
+Rice University,2007,1.62 ,1.59 ,2.00 ,2.05 
+Rice University,2008,1.60 ,1.67 ,1.00 ,1.44 
+Rice University,2009,1.20 ,1.36 ,1.50 ,1.67 
+Rice University,2010,1.74 ,1.54 ,1.20 ,1.55 
+Rice University,2011,1.58 ,1.47 ,1.83 ,1.62 
+Rice University,2012,1.25 ,1.54 ,1.61 ,1.53 
+Rice University,2013,1.59 ,1.46 ,2.50 ,1.92 
+Rice University,2014,1.71 ,1.68 ,1.33 ,1.67 
+Rice University,2015,1.93 ,1.57 ,1.00 ,1.83 
+Rice University,2016,1.93 ,1.41 ,1.33 ,1.95 
+Rice University,2017,2.05 ,1.38 ,1.53 ,1.00 
+Rochester Institute of Technology,2000,1.00 ,1.00 ,1.00 ,1.33 
+Rochester Institute of Technology,2001,1.00 ,1.50 ,1.00 ,1.67 
+Rochester Institute of Technology,2002,1.00 ,1.25 ,1.00 ,1.83 
+Rochester Institute of Technology,2003,2.00 ,1.17 ,1.00 ,1.33 
+Rochester Institute of Technology,2004,1.50 ,1.50 ,1.00 ,1.43 
+Rochester Institute of Technology,2005,1.49 ,1.33 ,1.00 ,1.33 
+Rochester Institute of Technology,2006,1.30 ,1.50 ,1.58 ,2.00 
+Rochester Institute of Technology,2007,1.58 ,1.00 ,1.00 ,1.50 
+Rochester Institute of Technology,2008,1.17 ,1.55 ,1.00 ,1.00 
+Rochester Institute of Technology,2009,1.37 ,1.41 ,1.13 ,1.50 
+Rochester Institute of Technology,2010,1.25 ,1.22 ,1.00 ,1.50 
+Rochester Institute of Technology,2011,1.75 ,1.62 ,1.00 ,1.33 
+Rochester Institute of Technology,2012,2.33 ,1.58 ,1.00 ,1.25 
+Rochester Institute of Technology,2013,1.33 ,1.33 ,1.33 ,1.50 
+Rochester Institute of Technology,2014,1.41 ,1.14 ,1.00 ,1.33 
+Rochester Institute of Technology,2015,1.41 ,1.31 ,1.00 ,1.33 
+Rochester Institute of Technology,2016,1.46 ,1.25 ,1.00 ,1.00 
+Rochester Institute of Technology,2017,1.21 ,1.20 ,1.33 ,1.45 
+Rutgers University,2000,1.67 ,1.48 ,2.78 ,1.41 
+Rutgers University,2001,1.89 ,1.61 ,1.75 ,1.34 
+Rutgers University,2002,1.26 ,1.82 ,4.98 ,1.17 
+Rutgers University,2003,3.08 ,1.89 ,1.83 ,1.26 
+Rutgers University,2004,2.33 ,1.44 ,2.50 ,1.42 
+Rutgers University,2005,1.96 ,1.88 ,4.03 ,2.00 
+Rutgers University,2006,1.83 ,1.56 ,2.67 ,1.76 
+Rutgers University,2007,2.56 ,1.28 ,1.50 ,2.08 
+Rutgers University,2008,2.16 ,1.47 ,2.23 ,1.55 
+Rutgers University,2009,1.93 ,1.40 ,2.50 ,1.44 
+Rutgers University,2010,2.74 ,1.45 ,2.59 ,2.08 
+Rutgers University,2011,2.24 ,1.34 ,2.31 ,2.12 
+Rutgers University,2012,3.31 ,1.42 ,2.33 ,1.99 
+Rutgers University,2013,2.92 ,1.47 ,2.38 ,2.13 
+Rutgers University,2014,2.26 ,1.57 ,2.38 ,1.66 
+Rutgers University,2015,2.14 ,1.40 ,1.50 ,2.07 
+Rutgers University,2016,2.25 ,1.48 ,2.83 ,1.53 
+Rutgers University,2017,2.22 ,1.54 ,1.67 ,1.67 
+Stanford University,2000,1.41 ,2.02 ,2.65 ,2.15 
+Stanford University,2001,2.01 ,2.24 ,3.21 ,2.39 
+Stanford University,2002,1.88 ,2.02 ,2.37 ,2.30 
+Stanford University,2003,2.22 ,1.85 ,1.88 ,2.07 
+Stanford University,2004,2.37 ,1.88 ,2.32 ,2.10 
+Stanford University,2005,2.34 ,1.87 ,3.00 ,2.25 
+Stanford University,2006,2.16 ,2.06 ,2.49 ,2.36 
+Stanford University,2007,2.83 ,1.91 ,2.14 ,1.94 
+Stanford University,2008,2.80 ,1.81 ,2.13 ,2.61 
+Stanford University,2009,2.78 ,1.85 ,1.87 ,2.15 
+Stanford University,2010,3.02 ,1.96 ,2.74 ,2.59 
+Stanford University,2011,3.05 ,2.15 ,2.26 ,2.31 
+Stanford University,2012,3.42 ,2.01 ,1.82 ,2.51 
+Stanford University,2013,3.78 ,2.40 ,2.87 ,2.18 
+Stanford University,2014,3.66 ,2.38 ,2.70 ,2.74 
+Stanford University,2015,4.97 ,1.95 ,1.68 ,2.35 
+Stanford University,2016,5.12 ,1.89 ,3.90 ,2.36 
+Stanford University,2017,4.49 ,2.12 ,2.11 ,3.03 
+Stevens Institute of Technology,2000,1.00 ,1.00 ,1.25 ,1.00 
+Stevens Institute of Technology,2001,1.00 ,2.28 ,1.00 ,1.00 
+Stevens Institute of Technology,2002,1.00 ,1.50 ,1.00 ,1.00 
+Stevens Institute of Technology,2003,1.33 ,1.25 ,1.00 ,1.00 
+Stevens Institute of Technology,2004,1.50 ,1.22 ,1.37 ,1.00 
+Stevens Institute of Technology,2005,1.50 ,2.08 ,1.00 ,1.50 
+Stevens Institute of Technology,2006,1.00 ,1.57 ,1.50 ,1.00 
+Stevens Institute of Technology,2007,2.16 ,1.44 ,1.00 ,1.00 
+Stevens Institute of Technology,2008,1.58 ,1.72 ,1.00 ,1.20 
+Stevens Institute of Technology,2009,2.00 ,1.33 ,1.33 ,1.33 
+Stevens Institute of Technology,2010,1.93 ,1.33 ,1.00 ,1.00 
+Stevens Institute of Technology,2011,1.63 ,1.50 ,1.33 ,1.00 
+Stevens Institute of Technology,2012,1.33 ,1.57 ,1.00 ,1.00 
+Stevens Institute of Technology,2013,2.00 ,1.91 ,1.00 ,1.33 
+Stevens Institute of Technology,2014,3.50 ,1.71 ,1.50 ,1.50 
+Stevens Institute of Technology,2015,2.75 ,1.62 ,1.00 ,1.00 
+Stevens Institute of Technology,2016,1.58 ,1.31 ,1.00 ,1.25 
+Stevens Institute of Technology,2017,1.58 ,1.42 ,1.00 ,1.17 
+Stony Brook University,2000,1.50 ,1.47 ,1.49 ,1.67 
+Stony Brook University,2001,1.83 ,1.37 ,2.04 ,1.76 
+Stony Brook University,2002,1.50 ,1.50 ,1.98 ,1.92 
+Stony Brook University,2003,2.58 ,1.38 ,1.63 ,2.07 
+Stony Brook University,2004,1.63 ,1.35 ,1.29 ,3.47 
+Stony Brook University,2005,1.97 ,1.55 ,1.50 ,2.33 
+Stony Brook University,2006,1.61 ,1.71 ,1.96 ,1.65 
+Stony Brook University,2007,1.83 ,1.65 ,1.00 ,1.87 
+Stony Brook University,2008,2.86 ,1.53 ,1.47 ,1.39 
+Stony Brook University,2009,1.89 ,1.68 ,1.51 ,1.40 
+Stony Brook University,2010,1.89 ,1.52 ,1.00 ,1.70 
+Stony Brook University,2011,2.58 ,1.37 ,1.51 ,1.77 
+Stony Brook University,2012,1.67 ,1.52 ,1.48 ,1.50 
+Stony Brook University,2013,2.14 ,1.61 ,1.25 ,2.10 
+Stony Brook University,2014,1.75 ,1.59 ,1.35 ,1.63 
+Stony Brook University,2015,1.56 ,1.53 ,1.20 ,1.51 
+Stony Brook University,2016,1.91 ,1.46 ,1.70 ,1.83 
+Stony Brook University,2017,1.60 ,1.70 ,1.49 ,1.75 
+Temple University,2000,1.63 ,1.00 ,1.00 ,1.00 
+Temple University,2001,1.50 ,1.00 ,1.00 ,1.20 
+Temple University,2002,1.00 ,2.00 ,1.00 ,1.00 
+Temple University,2003,1.00 ,1.00 ,1.00 ,1.25 
+Temple University,2005,2.83 ,1.00 ,1.00 ,1.33 
+Temple University,2006,2.49 ,1.33 ,1.00 ,2.00 
+Temple University,2007,1.85 ,1.33 ,1.00 ,1.00 
+Temple University,2008,1.97 ,1.00 ,1.00 ,1.25 
+Temple University,2009,2.04 ,1.45 ,1.00 ,1.00 
+Temple University,2010,2.36 ,1.00 ,1.00 ,1.00 
+Temple University,2011,2.29 ,1.22 ,1.00 ,1.00 
+Temple University,2012,1.95 ,1.49 ,1.00 ,1.00 
+Temple University,2013,1.94 ,1.00 ,1.00 ,1.33 
+Temple University,2014,2.03 ,1.58 ,1.00 ,1.14 
+Temple University,2015,1.72 ,1.23 ,1.00 ,1.00 
+Temple University,2016,1.86 ,1.00 ,1.00 ,1.17 
+Temple University,2017,1.64 ,1.10 ,1.00 ,1.17 
+Texas A&M University,2000,1.50 ,1.54 ,1.00 ,1.95 
+Texas A&M University,2001,1.25 ,1.51 ,1.00 ,2.60 
+Texas A&M University,2002,1.00 ,1.45 ,1.00 ,1.84 
+Texas A&M University,2003,1.50 ,1.60 ,1.00 ,2.62 
+Texas A&M University,2004,1.59 ,1.48 ,1.25 ,2.51 
+Texas A&M University,2005,1.11 ,1.56 ,1.00 ,1.94 
+Texas A&M University,2006,1.63 ,1.29 ,1.00 ,1.81 
+Texas A&M University,2007,1.00 ,1.33 ,1.50 ,2.43 
+Texas A&M University,2008,1.45 ,1.62 ,1.20 ,1.56 
+Texas A&M University,2009,1.50 ,1.50 ,1.00 ,2.80 
+Texas A&M University,2010,1.68 ,1.47 ,1.00 ,2.07 
+Texas A&M University,2011,1.84 ,1.39 ,1.00 ,2.52 
+Texas A&M University,2012,1.34 ,1.63 ,1.00 ,2.98 
+Texas A&M University,2013,1.72 ,1.86 ,1.00 ,4.33 
+Texas A&M University,2014,1.38 ,1.45 ,1.00 ,3.04 
+Texas A&M University,2015,1.79 ,1.70 ,1.00 ,3.28 
+Texas A&M University,2016,1.87 ,1.70 ,1.00 ,2.22 
+Texas A&M University,2017,1.62 ,1.50 ,1.00 ,1.52 
+TTI Chicago,2000,1.25 ,1.00 ,1.33 ,1.00 
+TTI Chicago,2001,1.70 ,1.00 ,1.83 ,1.00 
+TTI Chicago,2002,1.71 ,1.00 ,2.67 ,1.00 
+TTI Chicago,2003,2.16 ,1.00 ,1.17 ,2.00 
+TTI Chicago,2004,2.50 ,1.50 ,2.67 ,1.00 
+TTI Chicago,2005,1.63 ,1.25 ,3.50 ,1.89 
+TTI Chicago,2006,1.77 ,1.00 ,2.50 ,1.63 
+TTI Chicago,2007,1.58 ,1.00 ,3.42 ,1.63 
+TTI Chicago,2008,1.70 ,1.33 ,3.50 ,1.57 
+TTI Chicago,2009,1.78 ,1.00 ,3.83 ,1.93 
+TTI Chicago,2010,2.27 ,1.00 ,1.86 ,1.90 
+TTI Chicago,2011,1.68 ,1.00 ,4.58 ,1.71 
+TTI Chicago,2012,2.03 ,1.00 ,5.08 ,1.25 
+TTI Chicago,2013,2.33 ,1.00 ,1.50 ,1.61 
+TTI Chicago,2014,2.01 ,1.00 ,2.50 ,1.58 
+TTI Chicago,2015,1.94 ,1.00 ,4.17 ,1.96 
+TTI Chicago,2016,2.03 ,1.00 ,2.17 ,1.00 
+TTI Chicago,2017,1.99 ,1.00 ,2.87 ,1.50 
+Tufts University,2000,2.25 ,1.73 ,1.00 ,1.55 
+Tufts University,2001,1.33 ,1.25 ,1.14 ,1.20 
+Tufts University,2002,1.00 ,1.41 ,1.00 ,1.25 
+Tufts University,2003,1.00 ,1.50 ,1.00 ,1.00 
+Tufts University,2004,2.00 ,1.83 ,1.00 ,1.26 
+Tufts University,2005,1.00 ,2.17 ,1.00 ,1.00 
+Tufts University,2006,1.00 ,2.05 ,1.00 ,1.50 
+Tufts University,2007,1.58 ,1.40 ,1.00 ,1.61 
+Tufts University,2008,1.00 ,1.22 ,1.00 ,1.17 
+Tufts University,2009,1.33 ,1.41 ,1.00 ,1.54 
+Tufts University,2010,1.43 ,1.65 ,1.00 ,1.50 
+Tufts University,2011,1.00 ,2.70 ,1.00 ,1.40 
+Tufts University,2012,1.53 ,1.29 ,1.00 ,1.49 
+Tufts University,2013,1.46 ,1.00 ,1.00 ,1.37 
+Tufts University,2014,2.25 ,1.82 ,1.00 ,1.47 
+Tufts University,2015,1.41 ,1.00 ,1.00 ,1.40 
+Tufts University,2016,2.00 ,1.43 ,1.00 ,1.28 
+Tufts University,2017,1.34 ,1.50 ,1.00 ,1.14 
+Tulane University,2000,1.00 ,1.00 ,1.50 ,1.00 
+Tulane University,2001,1.00 ,1.00 ,1.00 ,1.20 
+Tulane University,2003,1.00 ,1.00 ,1.25 ,1.00 
+Tulane University,2005,1.00 ,1.25 ,1.00 ,1.33 
+Tulane University,2007,1.25 ,1.00 ,1.00 ,1.00 
+Tulane University,2008,1.00 ,1.33 ,1.00 ,1.00 
+Tulane University,2011,1.25 ,1.00 ,1.00 ,1.25 
+Tulane University,2012,1.00 ,1.00 ,1.00 ,1.33 
+Tulane University,2013,1.00 ,1.00 ,1.00 ,1.20 
+Tulane University,2015,1.33 ,1.00 ,1.00 ,1.00 
+Tulane University,2016,1.00 ,1.00 ,1.00 ,1.50 
+Tulane University,2017,1.33 ,1.00 ,1.00 ,1.50 
+Univ. of Colorado Colorado Springs,2000,1.75 ,1.33 ,1.00 ,1.00 
+Univ. of Colorado Colorado Springs,2001,1.50 ,1.00 ,1.00 ,1.00 
+Univ. of Colorado Colorado Springs,2002,1.33 ,1.00 ,1.00 ,1.00 
+Univ. of Colorado Colorado Springs,2003,1.50 ,1.00 ,1.00 ,1.00 
+Univ. of Colorado Colorado Springs,2004,1.33 ,1.00 ,1.00 ,1.00 
+Univ. of Colorado Colorado Springs,2005,1.20 ,1.00 ,1.00 ,1.00 
+Univ. of Colorado Colorado Springs,2007,3.17 ,1.00 ,1.00 ,1.00 
+Univ. of Colorado Colorado Springs,2008,1.25 ,1.00 ,1.00 ,1.17 
+Univ. of Colorado Colorado Springs,2010,1.25 ,1.00 ,1.00 ,1.00 
+Univ. of Colorado Colorado Springs,2011,1.00 ,1.00 ,1.00 ,1.25 
+Univ. of Colorado Colorado Springs,2012,1.25 ,1.33 ,1.00 ,1.33 
+Univ. of Colorado Colorado Springs,2013,1.00 ,1.25 ,1.00 ,1.00 
+Univ. of Colorado Colorado Springs,2014,1.45 ,1.24 ,1.00 ,1.29 
+Univ. of Colorado Colorado Springs,2015,1.48 ,1.25 ,1.00 ,1.41 
+Univ. of Colorado Colorado Springs,2016,2.83 ,1.00 ,1.00 ,1.00 
+Univ. of Colorado Colorado Springs,2017,1.00 ,1.24 ,1.00 ,1.00 
+Univ. of Illinois at Urbana-Champaign,2000,1.51 ,2.12 ,4.12 ,1.91 
+Univ. of Illinois at Urbana-Champaign,2001,1.93 ,1.87 ,6.75 ,2.08 
+Univ. of Illinois at Urbana-Champaign,2002,2.24 ,2.27 ,4.83 ,2.14 
+Univ. of Illinois at Urbana-Champaign,2003,2.61 ,2.05 ,2.89 ,2.28 
+Univ. of Illinois at Urbana-Champaign,2004,2.18 ,2.19 ,2.76 ,2.42 
+Univ. of Illinois at Urbana-Champaign,2005,3.01 ,2.00 ,3.82 ,1.61 
+Univ. of Illinois at Urbana-Champaign,2006,3.68 ,2.34 ,3.92 ,2.07 
+Univ. of Illinois at Urbana-Champaign,2007,2.93 ,2.16 ,2.35 ,2.27 
+Univ. of Illinois at Urbana-Champaign,2008,2.12 ,2.18 ,3.00 ,2.12 
+Univ. of Illinois at Urbana-Champaign,2009,2.30 ,2.46 ,2.47 ,2.34 
+Univ. of Illinois at Urbana-Champaign,2010,2.53 ,2.29 ,2.43 ,3.37 
+Univ. of Illinois at Urbana-Champaign,2011,2.50 ,2.36 ,2.92 ,2.14 
+Univ. of Illinois at Urbana-Champaign,2012,2.45 ,2.58 ,4.17 ,2.36 
+Univ. of Illinois at Urbana-Champaign,2013,2.38 ,2.53 ,3.34 ,2.84 
+Univ. of Illinois at Urbana-Champaign,2014,2.18 ,2.70 ,2.58 ,1.91 
+Univ. of Illinois at Urbana-Champaign,2015,2.88 ,2.43 ,2.98 ,2.63 
+Univ. of Illinois at Urbana-Champaign,2016,3.17 ,2.35 ,3.64 ,2.34 
+Univ. of Illinois at Urbana-Champaign,2017,2.50 ,1.72 ,2.74 ,2.50 
+Univ. of Maryland - Baltimore County,2000,1.33 ,1.00 ,1.00 ,1.58 
+Univ. of Maryland - Baltimore County,2002,1.29 ,1.00 ,1.00 ,1.70 
+Univ. of Maryland - Baltimore County,2004,1.25 ,1.00 ,1.00 ,1.33 
+Univ. of Maryland - Baltimore County,2005,2.73 ,1.22 ,1.00 ,1.50 
+Univ. of Maryland - Baltimore County,2006,1.47 ,1.00 ,1.00 ,1.50 
+Univ. of Maryland - Baltimore County,2007,1.71 ,1.22 ,1.00 ,1.26 
+Univ. of Maryland - Baltimore County,2008,1.37 ,1.25 ,1.00 ,1.41 
+Univ. of Maryland - Baltimore County,2009,1.33 ,1.20 ,1.00 ,1.20 
+Univ. of Maryland - Baltimore County,2010,1.41 ,1.19 ,1.00 ,1.17 
+Univ. of Maryland - Baltimore County,2011,1.44 ,1.00 ,1.00 ,1.17 
+Univ. of Maryland - Baltimore County,2012,1.55 ,1.00 ,1.00 ,1.67 
+Univ. of Maryland - Baltimore County,2013,1.41 ,1.17 ,1.00 ,1.41 
+Univ. of Maryland - Baltimore County,2014,1.51 ,1.29 ,1.00 ,1.00 
+Univ. of Maryland - Baltimore County,2015,1.44 ,1.00 ,1.00 ,1.22 
+Univ. of Maryland - Baltimore County,2016,1.53 ,1.32 ,1.00 ,1.25 
+Univ. of Maryland - Baltimore County,2017,1.40 ,1.00 ,1.00 ,1.00 
+University at Buffalo,2000,2.50 ,1.00 ,1.00 ,1.00 
+University at Buffalo,2002,1.00 ,1.25 ,1.00 ,1.00 
+University at Buffalo,2003,1.77 ,1.33 ,1.50 ,1.00 
+University at Buffalo,2004,1.50 ,1.01 ,1.25 ,1.50 
+University at Buffalo,2005,1.33 ,1.00 ,1.50 ,1.51 
+University at Buffalo,2006,1.17 ,1.33 ,1.83 ,1.67 
+University at Buffalo,2007,1.61 ,1.25 ,1.50 ,1.64 
+University at Buffalo,2008,1.56 ,1.33 ,1.50 ,1.00 
+University at Buffalo,2009,1.78 ,1.41 ,1.00 ,1.67 
+University at Buffalo,2010,1.67 ,1.21 ,1.92 ,1.50 
+University at Buffalo,2011,1.50 ,1.57 ,1.50 ,1.50 
+University at Buffalo,2012,1.25 ,1.22 ,1.75 ,1.50 
+University at Buffalo,2013,2.33 ,1.17 ,1.50 ,1.00 
+University at Buffalo,2014,1.64 ,1.37 ,2.28 ,1.56 
+University at Buffalo,2015,1.63 ,1.45 ,2.58 ,1.09 
+University at Buffalo,2016,4.18 ,1.51 ,1.84 ,2.00 
+University at Buffalo,2017,2.17 ,1.43 ,3.50 ,1.25 
+University of Arizona,2000,2.33 ,1.50 ,1.42 ,1.33 
+University of Arizona,2001,1.43 ,1.41 ,1.92 ,1.70 
+University of Arizona,2002,1.25 ,1.57 ,1.00 ,1.00 
+University of Arizona,2003,1.22 ,1.42 ,1.50 ,1.50 
+University of Arizona,2004,1.33 ,1.42 ,1.33 ,1.50 
+University of Arizona,2005,1.45 ,1.41 ,1.00 ,1.14 
+University of Arizona,2006,1.50 ,1.50 ,1.00 ,1.41 
+University of Arizona,2007,1.75 ,1.45 ,1.20 ,1.34 
+University of Arizona,2008,1.41 ,1.42 ,1.00 ,1.60 
+University of Arizona,2009,1.50 ,1.21 ,1.00 ,1.26 
+University of Arizona,2010,1.14 ,1.41 ,1.00 ,1.00 
+University of Arizona,2011,1.35 ,1.25 ,1.00 ,1.14 
+University of Arizona,2012,1.44 ,1.36 ,1.00 ,1.28 
+University of Arizona,2013,1.84 ,1.48 ,1.33 ,1.33 
+University of Arizona,2014,1.73 ,1.37 ,1.00 ,1.56 
+University of Arizona,2015,1.82 ,1.51 ,1.00 ,1.00 
+University of Arizona,2016,1.45 ,1.14 ,1.00 ,1.41 
+University of Arizona,2017,1.25 ,1.36 ,1.00 ,1.47 
+University of California - Berkeley,2000,2.97 ,2.21 ,2.72 ,1.81 
+University of California - Berkeley,2001,2.60 ,2.23 ,4.17 ,2.43 
+University of California - Berkeley,2002,2.69 ,2.37 ,2.03 ,2.32 
+University of California - Berkeley,2003,3.69 ,1.97 ,2.39 ,2.79 
+University of California - Berkeley,2004,3.27 ,2.26 ,2.15 ,1.98 
+University of California - Berkeley,2005,3.62 ,2.21 ,2.30 ,2.58 
+University of California - Berkeley,2006,2.79 ,2.15 ,1.87 ,2.38 
+University of California - Berkeley,2007,4.20 ,2.32 ,2.23 ,2.86 
+University of California - Berkeley,2008,4.34 ,2.42 ,2.25 ,2.03 
+University of California - Berkeley,2009,5.96 ,1.94 ,3.17 ,2.73 
+University of California - Berkeley,2010,3.18 ,1.89 ,1.99 ,3.00 
+University of California - Berkeley,2011,3.49 ,2.12 ,1.86 ,3.16 
+University of California - Berkeley,2012,6.44 ,2.02 ,3.58 ,2.53 
+University of California - Berkeley,2013,5.33 ,1.95 ,2.68 ,2.15 
+University of California - Berkeley,2014,3.78 ,1.91 ,2.64 ,2.68 
+University of California - Berkeley,2015,5.46 ,1.75 ,1.92 ,3.56 
+University of California - Berkeley,2016,3.87 ,1.82 ,2.13 ,2.96 
+University of California - Berkeley,2017,4.27 ,1.84 ,2.56 ,2.29 
+University of California - Davis,2000,1.50 ,1.65 ,1.83 ,1.71 
+University of California - Davis,2001,1.83 ,1.43 ,1.83 ,1.43 
+University of California - Davis,2002,1.25 ,1.53 ,1.83 ,1.92 
+University of California - Davis,2003,1.41 ,1.70 ,1.50 ,1.93 
+University of California - Davis,2004,1.73 ,1.60 ,1.00 ,1.88 
+University of California - Davis,2005,1.00 ,1.76 ,1.33 ,1.72 
+University of California - Davis,2006,1.66 ,1.66 ,2.00 ,1.00 
+University of California - Davis,2007,1.61 ,1.51 ,1.33 ,2.42 
+University of California - Davis,2008,1.45 ,1.77 ,2.00 ,1.55 
+University of California - Davis,2009,1.65 ,1.62 ,1.63 ,1.83 
+University of California - Davis,2010,1.64 ,1.61 ,1.34 ,1.85 
+University of California - Davis,2011,1.99 ,1.73 ,1.20 ,1.36 
+University of California - Davis,2012,1.84 ,1.47 ,1.60 ,3.35 
+University of California - Davis,2013,1.69 ,1.77 ,1.25 ,1.66 
+University of California - Davis,2014,1.99 ,1.73 ,1.73 ,1.49 
+University of California - Davis,2015,2.13 ,1.67 ,1.58 ,1.54 
+University of California - Davis,2016,2.40 ,1.48 ,1.41 ,1.00 
+University of California - Davis,2017,2.27 ,1.95 ,1.00 ,1.57 
+University of California - Irvine,2000,3.00 ,1.77 ,1.75 ,1.28 
+University of California - Irvine,2001,2.46 ,1.56 ,3.00 ,1.25 
+University of California - Irvine,2002,1.67 ,1.98 ,2.42 ,1.65 
+University of California - Irvine,2003,2.59 ,1.78 ,2.06 ,1.73 
+University of California - Irvine,2004,2.67 ,1.97 ,2.47 ,2.67 
+University of California - Irvine,2005,2.34 ,1.83 ,2.58 ,1.90 
+University of California - Irvine,2006,2.39 ,1.35 ,1.58 ,1.87 
+University of California - Irvine,2007,2.52 ,1.80 ,2.03 ,1.48 
+University of California - Irvine,2008,1.61 ,1.59 ,2.00 ,1.85 
+University of California - Irvine,2009,1.78 ,1.61 ,2.00 ,1.66 
+University of California - Irvine,2010,1.97 ,2.01 ,3.00 ,2.66 
+University of California - Irvine,2011,1.94 ,1.70 ,1.00 ,1.72 
+University of California - Irvine,2012,2.08 ,1.93 ,2.50 ,2.19 
+University of California - Irvine,2013,1.90 ,2.02 ,1.32 ,2.25 
+University of California - Irvine,2014,1.85 ,1.67 ,2.83 ,2.26 
+University of California - Irvine,2015,1.91 ,1.81 ,1.17 ,1.65 
+University of California - Irvine,2016,2.01 ,1.56 ,2.00 ,1.97 
+University of California - Irvine,2017,1.64 ,1.68 ,1.25 ,2.26 
+University of California - Los Angeles,2000,2.80 ,2.00 ,2.14 ,1.33 
+University of California - Los Angeles,2001,2.18 ,1.63 ,2.76 ,1.33 
+University of California - Los Angeles,2002,2.80 ,1.66 ,2.46 ,1.75 
+University of California - Los Angeles,2003,3.71 ,2.15 ,1.91 ,1.55 
+University of California - Los Angeles,2004,2.42 ,1.57 ,2.39 ,1.91 
+University of California - Los Angeles,2005,3.52 ,1.50 ,2.42 ,2.17 
+University of California - Los Angeles,2006,2.25 ,1.54 ,2.93 ,1.50 
+University of California - Los Angeles,2007,3.30 ,1.47 ,2.65 ,2.08 
+University of California - Los Angeles,2008,3.22 ,1.44 ,4.22 ,1.50 
+University of California - Los Angeles,2009,3.96 ,1.66 ,2.77 ,1.75 
+University of California - Los Angeles,2010,3.30 ,1.74 ,3.34 ,1.43 
+University of California - Los Angeles,2011,3.19 ,1.71 ,2.83 ,1.39 
+University of California - Los Angeles,2012,2.43 ,1.89 ,4.25 ,1.64 
+University of California - Los Angeles,2013,2.70 ,1.60 ,3.24 ,1.60 
+University of California - Los Angeles,2014,2.66 ,1.68 ,2.38 ,1.91 
+University of California - Los Angeles,2015,2.95 ,1.73 ,4.09 ,1.53 
+University of California - Los Angeles,2016,2.59 ,1.47 ,2.97 ,1.40 
+University of California - Los Angeles,2017,2.19 ,1.45 ,4.08 ,1.35 
+University of California - Riverside,2000,2.50 ,1.43 ,2.81 ,1.00 
+University of California - Riverside,2001,1.48 ,1.52 ,2.50 ,1.44 
+University of California - Riverside,2002,2.67 ,2.11 ,1.83 ,1.33 
+University of California - Riverside,2003,2.24 ,1.56 ,1.00 ,1.50 
+University of California - Riverside,2004,1.95 ,1.66 ,1.33 ,2.00 
+University of California - Riverside,2005,2.00 ,1.59 ,1.00 ,1.00 
+University of California - Riverside,2006,2.10 ,1.61 ,1.00 ,1.43 
+University of California - Riverside,2007,2.02 ,1.41 ,1.75 ,1.00 
+University of California - Riverside,2008,1.73 ,1.40 ,1.00 ,1.34 
+University of California - Riverside,2009,1.89 ,1.48 ,1.14 ,1.41 
+University of California - Riverside,2010,1.78 ,1.65 ,1.00 ,1.25 
+University of California - Riverside,2011,1.80 ,1.44 ,1.00 ,1.44 
+University of California - Riverside,2012,1.44 ,1.66 ,1.50 ,1.25 
+University of California - Riverside,2013,1.43 ,1.66 ,1.00 ,1.20 
+University of California - Riverside,2014,2.37 ,1.87 ,1.53 ,1.24 
+University of California - Riverside,2015,1.74 ,1.70 ,1.33 ,1.26 
+University of California - Riverside,2016,1.45 ,1.84 ,1.33 ,1.39 
+University of California - Riverside,2017,1.96 ,1.93 ,1.00 ,1.00 
+University of California - San Diego,2000,2.24 ,1.73 ,1.76 ,1.65 
+University of California - San Diego,2001,2.36 ,1.76 ,2.04 ,2.00 
+University of California - San Diego,2002,2.23 ,1.95 ,2.28 ,2.39 
+University of California - San Diego,2003,3.44 ,1.87 ,2.23 ,2.77 
+University of California - San Diego,2004,2.92 ,1.96 ,2.96 ,2.02 
+University of California - San Diego,2005,3.97 ,1.89 ,1.69 ,1.81 
+University of California - San Diego,2006,3.78 ,2.05 ,2.48 ,1.95 
+University of California - San Diego,2007,4.01 ,1.88 ,1.64 ,1.35 
+University of California - San Diego,2008,4.08 ,1.86 ,2.22 ,1.96 
+University of California - San Diego,2009,3.96 ,1.90 ,2.57 ,1.86 
+University of California - San Diego,2010,2.39 ,1.94 ,3.32 ,1.99 
+University of California - San Diego,2011,1.67 ,1.95 ,2.40 ,1.95 
+University of California - San Diego,2012,2.27 ,2.05 ,2.96 ,1.86 
+University of California - San Diego,2013,2.19 ,2.07 ,3.13 ,1.84 
+University of California - San Diego,2014,2.11 ,1.75 ,1.83 ,1.74 
+University of California - San Diego,2015,1.93 ,1.97 ,2.72 ,1.92 
+University of California - San Diego,2016,2.69 ,1.79 ,4.01 ,2.31 
+University of California - San Diego,2017,1.84 ,2.40 ,2.24 ,4.37 
+University of California - Santa Barbara,2000,1.50 ,1.85 ,1.67 ,1.00 
+University of California - Santa Barbara,2001,1.48 ,1.90 ,2.83 ,1.33 
+University of California - Santa Barbara,2002,1.25 ,1.76 ,1.00 ,1.00 
+University of California - Santa Barbara,2003,1.60 ,2.24 ,1.66 ,1.73 
+University of California - Santa Barbara,2004,1.48 ,1.90 ,1.32 ,1.53 
+University of California - Santa Barbara,2005,1.56 ,1.57 ,1.33 ,1.20 
+University of California - Santa Barbara,2006,1.45 ,1.73 ,1.00 ,1.00 
+University of California - Santa Barbara,2007,1.49 ,1.64 ,1.50 ,1.40 
+University of California - Santa Barbara,2008,1.29 ,1.70 ,1.00 ,1.70 
+University of California - Santa Barbara,2009,1.45 ,1.81 ,1.66 ,1.50 
+University of California - Santa Barbara,2010,1.39 ,1.85 ,1.29 ,1.58 
+University of California - Santa Barbara,2011,1.75 ,1.92 ,2.17 ,1.25 
+University of California - Santa Barbara,2012,1.29 ,1.81 ,2.92 ,1.00 
+University of California - Santa Barbara,2013,1.80 ,1.99 ,1.83 ,1.34 
+University of California - Santa Barbara,2014,1.53 ,2.14 ,1.83 ,1.48 
+University of California - Santa Barbara,2015,1.72 ,2.06 ,1.43 ,1.28 
+University of California - Santa Barbara,2016,1.48 ,1.82 ,2.29 ,1.37 
+University of California - Santa Barbara,2017,1.69 ,1.54 ,2.55 ,1.33 
+University of California - Santa Cruz,2000,1.95 ,1.33 ,2.28 ,1.34 
+University of California - Santa Cruz,2001,1.66 ,1.47 ,2.71 ,1.00 
+University of California - Santa Cruz,2002,1.50 ,1.38 ,1.89 ,1.57 
+University of California - Santa Cruz,2003,2.30 ,1.37 ,1.51 ,1.55 
+University of California - Santa Cruz,2004,1.99 ,1.58 ,1.41 ,1.34 
+University of California - Santa Cruz,2005,2.42 ,1.29 ,1.25 ,1.58 
+University of California - Santa Cruz,2006,2.80 ,1.46 ,2.08 ,2.00 
+University of California - Santa Cruz,2007,1.97 ,1.40 ,3.25 ,1.00 
+University of California - Santa Cruz,2008,1.62 ,1.53 ,2.33 ,1.00 
+University of California - Santa Cruz,2009,1.51 ,1.49 ,1.83 ,1.00 
+University of California - Santa Cruz,2010,2.11 ,1.34 ,2.33 ,1.00 
+University of California - Santa Cruz,2011,1.73 ,1.53 ,1.83 ,1.43 
+University of California - Santa Cruz,2012,3.00 ,1.44 ,1.00 ,1.42 
+University of California - Santa Cruz,2013,1.51 ,1.61 ,2.50 ,1.25 
+University of California - Santa Cruz,2014,1.59 ,1.37 ,1.50 ,1.53 
+University of California - Santa Cruz,2015,1.84 ,1.51 ,1.50 ,1.00 
+University of California - Santa Cruz,2016,1.53 ,1.17 ,1.75 ,1.45 
+University of California - Santa Cruz,2017,1.90 ,1.53 ,1.41 ,1.08 
+University of Central Florida,2000,1.00 ,1.58 ,1.00 ,1.35 
+University of Central Florida,2001,2.92 ,1.00 ,1.00 ,1.33 
+University of Central Florida,2002,1.50 ,1.39 ,1.00 ,1.25 
+University of Central Florida,2003,2.19 ,1.33 ,1.00 ,1.50 
+University of Central Florida,2004,1.70 ,1.50 ,1.00 ,1.50 
+University of Central Florida,2005,3.46 ,1.37 ,1.00 ,1.53 
+University of Central Florida,2006,1.99 ,1.36 ,1.00 ,1.39 
+University of Central Florida,2007,2.62 ,1.34 ,1.00 ,1.14 
+University of Central Florida,2008,3.52 ,1.33 ,1.00 ,1.33 
+University of Central Florida,2009,1.68 ,1.17 ,1.00 ,1.24 
+University of Central Florida,2010,3.50 ,1.23 ,1.00 ,1.42 
+University of Central Florida,2011,1.95 ,1.17 ,1.00 ,2.09 
+University of Central Florida,2012,2.22 ,1.00 ,1.00 ,1.78 
+University of Central Florida,2013,1.99 ,1.23 ,1.00 ,1.36 
+University of Central Florida,2014,2.01 ,1.17 ,1.00 ,1.80 
+University of Central Florida,2015,2.06 ,1.23 ,1.00 ,1.38 
+University of Central Florida,2016,1.99 ,1.22 ,1.00 ,1.37 
+University of Central Florida,2017,2.03 ,2.00 ,1.33 ,1.56 
+University of Chicago,2000,1.25 ,1.43 ,2.00 ,1.00 
+University of Chicago,2001,1.00 ,1.82 ,2.00 ,1.33 
+University of Chicago,2002,1.50 ,1.57 ,1.50 ,1.33 
+University of Chicago,2003,1.37 ,1.58 ,1.33 ,1.25 
+University of Chicago,2004,1.00 ,2.17 ,1.50 ,1.48 
+University of Chicago,2005,1.50 ,1.48 ,1.50 ,1.00 
+University of Chicago,2006,1.50 ,1.77 ,2.50 ,1.34 
+University of Chicago,2007,1.00 ,1.77 ,1.50 ,1.00 
+University of Chicago,2008,1.50 ,1.41 ,2.67 ,1.33 
+University of Chicago,2009,1.33 ,1.47 ,1.33 ,1.25 
+University of Chicago,2010,1.33 ,1.53 ,2.50 ,1.50 
+University of Chicago,2011,1.00 ,1.41 ,1.25 ,1.00 
+University of Chicago,2012,1.39 ,1.47 ,3.00 ,1.28 
+University of Chicago,2013,1.37 ,1.56 ,1.84 ,1.31 
+University of Chicago,2014,1.58 ,1.56 ,1.33 ,1.59 
+University of Chicago,2015,1.25 ,1.49 ,1.00 ,1.10 
+University of Chicago,2016,1.50 ,1.66 ,2.00 ,1.74 
+University of Chicago,2017,1.29 ,1.65 ,1.00 ,1.25 
+University of Colorado Boulder,2000,1.63 ,1.16 ,1.50 ,1.00 
+University of Colorado Boulder,2001,1.38 ,1.25 ,1.00 ,1.17 
+University of Colorado Boulder,2002,1.41 ,1.58 ,1.83 ,1.45 
+University of Colorado Boulder,2003,1.25 ,1.32 ,1.33 ,1.50 
+University of Colorado Boulder,2004,1.80 ,1.28 ,1.00 ,1.00 
+University of Colorado Boulder,2005,1.64 ,1.41 ,1.29 ,1.71 
+University of Colorado Boulder,2006,1.74 ,1.64 ,1.00 ,1.84 
+University of Colorado Boulder,2007,1.63 ,1.34 ,1.25 ,1.50 
+University of Colorado Boulder,2008,1.54 ,1.44 ,1.00 ,2.04 
+University of Colorado Boulder,2009,1.45 ,1.36 ,1.67 ,2.30 
+University of Colorado Boulder,2010,1.35 ,1.31 ,1.20 ,2.04 
+University of Colorado Boulder,2011,1.50 ,1.58 ,1.70 ,2.09 
+University of Colorado Boulder,2012,2.00 ,1.27 ,1.49 ,2.37 
+University of Colorado Boulder,2013,1.51 ,1.55 ,2.70 ,2.20 
+University of Colorado Boulder,2014,1.71 ,1.54 ,1.87 ,2.76 
+University of Colorado Boulder,2015,1.92 ,1.41 ,1.48 ,3.11 
+University of Colorado Boulder,2016,1.87 ,1.40 ,1.00 ,3.08 
+University of Colorado Boulder,2017,1.65 ,1.39 ,1.33 ,2.27 
+University of Connecticut,2000,1.00 ,1.00 ,1.33 ,1.00 
+University of Connecticut,2002,1.20 ,1.50 ,1.50 ,1.00 
+University of Connecticut,2003,2.50 ,1.45 ,1.33 ,1.00 
+University of Connecticut,2004,2.08 ,1.33 ,1.58 ,1.00 
+University of Connecticut,2005,1.33 ,1.33 ,1.33 ,1.33 
+University of Connecticut,2006,1.48 ,1.00 ,1.20 ,1.20 
+University of Connecticut,2007,2.27 ,1.17 ,1.67 ,1.58 
+University of Connecticut,2008,1.26 ,1.14 ,1.00 ,1.00 
+University of Connecticut,2009,1.50 ,1.38 ,1.25 ,1.00 
+University of Connecticut,2010,1.39 ,1.33 ,1.00 ,1.00 
+University of Connecticut,2011,1.42 ,1.20 ,1.33 ,1.20 
+University of Connecticut,2012,1.29 ,1.18 ,1.67 ,1.00 
+University of Connecticut,2013,1.33 ,1.21 ,1.25 ,2.00 
+University of Connecticut,2014,1.58 ,1.17 ,1.25 ,1.20 
+University of Connecticut,2015,1.83 ,1.00 ,1.29 ,1.00 
+University of Connecticut,2016,1.32 ,1.14 ,1.43 ,2.25 
+University of Connecticut,2017,1.15 ,1.20 ,1.67 ,1.00 
+University of Delaware,2000,2.33 ,1.53 ,1.00 ,1.25 
+University of Delaware,2001,1.73 ,1.00 ,1.00 ,1.00 
+University of Delaware,2002,2.00 ,1.00 ,1.00 ,1.84 
+University of Delaware,2003,1.25 ,1.00 ,1.00 ,1.00 
+University of Delaware,2004,2.83 ,1.37 ,1.00 ,1.20 
+University of Delaware,2005,1.46 ,1.62 ,1.00 ,1.33 
+University of Delaware,2006,1.45 ,1.31 ,1.00 ,1.91 
+University of Delaware,2007,1.59 ,1.33 ,1.00 ,1.00 
+University of Delaware,2008,1.94 ,1.19 ,1.00 ,1.37 
+University of Delaware,2009,2.45 ,1.41 ,1.00 ,1.33 
+University of Delaware,2010,1.66 ,1.20 ,1.00 ,1.33 
+University of Delaware,2011,2.29 ,1.33 ,1.00 ,1.33 
+University of Delaware,2012,1.62 ,1.50 ,1.00 ,1.50 
+University of Delaware,2013,2.01 ,1.00 ,1.00 ,1.00 
+University of Delaware,2014,2.68 ,2.87 ,1.00 ,1.25 
+University of Delaware,2015,2.42 ,1.13 ,1.00 ,1.25 
+University of Delaware,2016,1.20 ,1.33 ,1.00 ,1.00 
+University of Delaware,2017,1.32 ,1.00 ,1.00 ,1.00 
+University of Florida,2000,1.50 ,1.67 ,1.00 ,1.00 
+University of Florida,2001,1.61 ,1.31 ,1.00 ,1.00 
+University of Florida,2002,1.78 ,1.31 ,1.67 ,1.00 
+University of Florida,2003,1.83 ,1.33 ,1.33 ,1.25 
+University of Florida,2004,2.61 ,1.37 ,1.00 ,1.50 
+University of Florida,2005,2.33 ,1.35 ,1.33 ,1.32 
+University of Florida,2006,3.65 ,1.75 ,1.50 ,1.61 
+University of Florida,2007,1.61 ,1.75 ,1.00 ,1.53 
+University of Florida,2008,1.94 ,1.52 ,1.00 ,1.74 
+University of Florida,2009,1.52 ,1.31 ,1.33 ,1.50 
+University of Florida,2010,1.70 ,1.41 ,1.00 ,1.34 
+University of Florida,2011,2.00 ,1.45 ,1.33 ,1.52 
+University of Florida,2012,1.70 ,1.31 ,1.33 ,1.25 
+University of Florida,2013,1.60 ,1.71 ,1.00 ,1.82 
+University of Florida,2014,1.92 ,1.54 ,1.33 ,1.51 
+University of Florida,2015,1.67 ,1.52 ,1.50 ,1.21 
+University of Florida,2016,1.63 ,2.05 ,1.33 ,1.45 
+University of Florida,2017,1.41 ,1.38 ,1.33 ,1.20 
+University of Georgia,2000,1.00 ,1.00 ,1.00 ,1.50 
+University of Georgia,2003,1.00 ,1.00 ,1.00 ,1.33 
+University of Georgia,2004,1.25 ,1.00 ,1.00 ,1.00 
+University of Georgia,2005,1.50 ,1.00 ,1.00 ,1.00 
+University of Georgia,2006,1.49 ,1.45 ,1.00 ,1.20 
+University of Georgia,2007,1.87 ,1.00 ,1.00 ,1.00 
+University of Georgia,2008,1.50 ,1.25 ,1.00 ,1.00 
+University of Georgia,2009,1.50 ,1.00 ,1.00 ,1.00 
+University of Georgia,2010,1.08 ,1.26 ,1.00 ,1.00 
+University of Georgia,2011,1.17 ,1.46 ,1.00 ,1.00 
+University of Georgia,2012,1.50 ,1.31 ,1.00 ,1.00 
+University of Georgia,2013,1.50 ,2.20 ,1.00 ,1.00 
+University of Georgia,2014,1.00 ,1.67 ,1.00 ,1.00 
+University of Georgia,2015,1.39 ,1.45 ,1.00 ,1.50 
+University of Georgia,2016,1.24 ,1.28 ,1.00 ,1.00 
+University of Georgia,2017,1.33 ,1.31 ,1.00 ,1.50 
+University of Hawaii at Manoa,2000,1.25 ,1.25 ,1.00 ,1.00 
+University of Hawaii at Manoa,2001,1.00 ,1.33 ,1.00 ,1.25 
+University of Hawaii at Manoa,2002,1.00 ,1.26 ,1.00 ,1.00 
+University of Hawaii at Manoa,2003,1.26 ,1.63 ,1.00 ,1.00 
+University of Hawaii at Manoa,2004,1.00 ,1.67 ,1.00 ,1.25 
+University of Hawaii at Manoa,2005,1.00 ,1.19 ,1.00 ,1.00 
+University of Hawaii at Manoa,2006,1.00 ,2.39 ,1.00 ,1.00 
+University of Hawaii at Manoa,2007,1.00 ,1.43 ,1.00 ,1.11 
+University of Hawaii at Manoa,2008,1.00 ,1.50 ,1.00 ,1.00 
+University of Hawaii at Manoa,2009,1.00 ,1.11 ,1.00 ,1.00 
+University of Hawaii at Manoa,2010,1.00 ,1.25 ,1.00 ,1.00 
+University of Hawaii at Manoa,2011,1.00 ,1.20 ,1.00 ,2.00 
+University of Hawaii at Manoa,2012,1.00 ,1.20 ,1.00 ,1.00 
+University of Hawaii at Manoa,2013,1.00 ,1.25 ,1.00 ,1.00 
+University of Hawaii at Manoa,2014,1.00 ,1.00 ,1.00 ,1.17 
+University of Hawaii at Manoa,2015,1.00 ,1.20 ,1.00 ,1.45 
+University of Hawaii at Manoa,2017,1.00 ,1.14 ,2.00 ,1.00 
+University of Houston,2000,1.50 ,1.50 ,1.00 ,1.00 
+University of Houston,2001,1.00 ,1.00 ,1.83 ,1.00 
+University of Houston,2003,1.13 ,1.00 ,1.00 ,1.33 
+University of Houston,2004,1.83 ,1.00 ,1.00 ,1.33 
+University of Houston,2005,1.58 ,1.22 ,1.50 ,1.00 
+University of Houston,2006,1.00 ,1.47 ,1.00 ,1.00 
+University of Houston,2007,1.33 ,1.41 ,1.00 ,1.00 
+University of Houston,2008,2.00 ,1.33 ,1.00 ,1.26 
+University of Houston,2009,1.32 ,1.29 ,1.00 ,1.41 
+University of Houston,2010,1.50 ,1.00 ,1.00 ,1.18 
+University of Houston,2011,1.33 ,1.00 ,1.13 ,1.14 
+University of Houston,2012,1.59 ,1.50 ,1.25 ,1.31 
+University of Houston,2013,1.41 ,1.17 ,1.20 ,1.52 
+University of Houston,2014,1.50 ,1.33 ,1.00 ,1.50 
+University of Houston,2015,1.41 ,1.00 ,1.45 ,1.38 
+University of Houston,2016,1.52 ,1.65 ,1.00 ,1.18 
+University of Houston,2017,1.23 ,1.00 ,1.33 ,1.32 
+University of Illinois at Chicago,2000,1.71 ,1.66 ,2.00 ,1.00 
+University of Illinois at Chicago,2001,1.97 ,1.53 ,1.46 ,1.70 
+University of Illinois at Chicago,2002,1.69 ,1.73 ,1.33 ,1.00 
+University of Illinois at Chicago,2003,1.97 ,1.63 ,1.00 ,1.00 
+University of Illinois at Chicago,2004,1.65 ,1.61 ,1.00 ,1.25 
+University of Illinois at Chicago,2005,1.64 ,1.41 ,1.51 ,1.17 
+University of Illinois at Chicago,2006,2.38 ,1.56 ,1.00 ,1.00 
+University of Illinois at Chicago,2007,1.93 ,2.00 ,1.33 ,1.61 
+University of Illinois at Chicago,2008,1.68 ,1.55 ,1.78 ,1.25 
+University of Illinois at Chicago,2009,1.75 ,1.49 ,1.82 ,1.11 
+University of Illinois at Chicago,2010,2.19 ,1.48 ,2.83 ,1.33 
+University of Illinois at Chicago,2011,1.73 ,1.40 ,1.57 ,1.48 
+University of Illinois at Chicago,2012,1.97 ,1.40 ,1.00 ,1.00 
+University of Illinois at Chicago,2013,1.97 ,1.56 ,2.83 ,1.28 
+University of Illinois at Chicago,2014,1.96 ,2.70 ,1.50 ,1.17 
+University of Illinois at Chicago,2015,2.26 ,1.39 ,1.29 ,1.25 
+University of Illinois at Chicago,2016,2.32 ,1.59 ,1.41 ,1.00 
+University of Illinois at Chicago,2017,1.67 ,1.39 ,1.43 ,1.22 
+University of Iowa,2000,1.00 ,1.00 ,2.00 ,1.07 
+University of Iowa,2001,1.25 ,1.50 ,1.51 ,1.00 
+University of Iowa,2002,1.00 ,2.00 ,1.33 ,1.00 
+University of Iowa,2003,1.00 ,1.00 ,1.00 ,1.33 
+University of Iowa,2004,1.50 ,2.50 ,1.41 ,1.50 
+University of Iowa,2005,1.00 ,1.33 ,2.00 ,1.25 
+University of Iowa,2006,1.00 ,1.48 ,1.75 ,1.00 
+University of Iowa,2007,1.00 ,1.29 ,2.00 ,1.00 
+University of Iowa,2008,1.00 ,1.71 ,1.20 ,1.00 
+University of Iowa,2009,1.25 ,1.00 ,1.50 ,1.14 
+University of Iowa,2010,1.53 ,1.22 ,2.00 ,1.25 
+University of Iowa,2011,1.25 ,1.25 ,1.13 ,1.41 
+University of Iowa,2012,1.44 ,1.21 ,1.50 ,1.33 
+University of Iowa,2013,2.58 ,1.17 ,1.25 ,1.70 
+University of Iowa,2014,1.50 ,1.35 ,1.40 ,1.33 
+University of Iowa,2015,1.34 ,1.33 ,1.26 ,1.25 
+University of Iowa,2016,1.73 ,1.00 ,1.25 ,1.14 
+University of Iowa,2017,2.43 ,1.78 ,1.31 ,1.40 
+University of Kansas,2000,1.00 ,1.00 ,1.00 ,1.33 
+University of Kansas,2001,1.33 ,1.34 ,1.00 ,2.70 
+University of Kansas,2002,1.00 ,1.00 ,1.00 ,1.20 
+University of Kansas,2003,1.20 ,1.50 ,1.00 ,1.50 
+University of Kansas,2004,1.25 ,1.00 ,1.00 ,1.32 
+University of Kansas,2005,1.00 ,1.00 ,1.00 ,1.84 
+University of Kansas,2007,1.00 ,1.40 ,1.00 ,1.33 
+University of Kansas,2008,1.33 ,1.00 ,1.00 ,1.67 
+University of Kansas,2009,1.00 ,1.25 ,1.00 ,1.00 
+University of Kansas,2010,1.50 ,1.00 ,1.00 ,1.40 
+University of Kansas,2011,1.33 ,1.34 ,1.00 ,1.51 
+University of Kansas,2012,1.50 ,1.14 ,1.00 ,1.13 
+University of Kansas,2013,1.00 ,1.22 ,1.00 ,1.53 
+University of Kansas,2014,1.00 ,1.25 ,1.00 ,1.00 
+University of Kansas,2015,1.50 ,1.20 ,1.00 ,1.40 
+University of Kansas,2016,1.00 ,1.83 ,1.00 ,1.00 
+University of Kansas,2017,2.00 ,1.00 ,1.00 ,1.00 
+University of Kentucky,2000,1.50 ,1.00 ,1.50 ,1.00 
+University of Kentucky,2001,1.50 ,1.00 ,1.00 ,1.40 
+University of Kentucky,2002,1.50 ,1.67 ,1.00 ,1.00 
+University of Kentucky,2003,1.56 ,1.00 ,1.00 ,1.00 
+University of Kentucky,2004,1.63 ,1.20 ,1.00 ,1.00 
+University of Kentucky,2005,2.25 ,1.00 ,1.00 ,1.00 
+University of Kentucky,2006,1.29 ,1.00 ,1.00 ,1.50 
+University of Kentucky,2007,2.20 ,1.00 ,1.00 ,1.00 
+University of Kentucky,2008,1.77 ,1.00 ,1.00 ,1.00 
+University of Kentucky,2009,2.28 ,1.00 ,1.00 ,1.20 
+University of Kentucky,2010,1.70 ,1.00 ,1.00 ,1.00 
+University of Kentucky,2011,2.28 ,1.00 ,1.00 ,1.00 
+University of Kentucky,2012,1.37 ,1.20 ,1.00 ,1.15 
+University of Kentucky,2013,1.41 ,1.26 ,1.00 ,1.15 
+University of Kentucky,2014,1.70 ,1.39 ,1.00 ,1.20 
+University of Kentucky,2015,2.18 ,1.45 ,1.00 ,1.18 
+University of Kentucky,2016,1.26 ,1.56 ,1.00 ,1.25 
+University of Kentucky,2017,1.29 ,1.43 ,1.00 ,1.40 
+University of Maryland - College Park,2000,1.94 ,1.84 ,4.53 ,1.73 
+University of Maryland - College Park,2001,1.80 ,1.51 ,2.20 ,1.46 
+University of Maryland - College Park,2002,1.65 ,1.63 ,1.57 ,1.50 
+University of Maryland - College Park,2003,1.80 ,1.55 ,2.61 ,1.68 
+University of Maryland - College Park,2004,2.41 ,2.28 ,2.22 ,1.58 
+University of Maryland - College Park,2005,3.40 ,1.59 ,2.66 ,1.79 
+University of Maryland - College Park,2006,1.94 ,1.77 ,3.00 ,1.62 
+University of Maryland - College Park,2007,2.53 ,1.70 ,4.01 ,1.93 
+University of Maryland - College Park,2008,2.55 ,1.87 ,1.91 ,1.84 
+University of Maryland - College Park,2009,2.56 ,1.93 ,1.48 ,1.76 
+University of Maryland - College Park,2010,2.31 ,1.91 ,1.97 ,1.24 
+University of Maryland - College Park,2011,2.61 ,1.61 ,3.08 ,1.57 
+University of Maryland - College Park,2012,2.71 ,2.20 ,2.21 ,1.58 
+University of Maryland - College Park,2013,2.42 ,1.51 ,1.93 ,1.83 
+University of Maryland - College Park,2014,2.15 ,1.80 ,2.45 ,1.41 
+University of Maryland - College Park,2015,3.18 ,1.65 ,1.57 ,1.44 
+University of Maryland - College Park,2016,3.77 ,1.95 ,2.10 ,1.40 
+University of Maryland - College Park,2017,2.59 ,1.72 ,1.58 ,1.73 
+University of Massachusetts Amherst,2000,1.81 ,1.64 ,1.00 ,2.20 
+University of Massachusetts Amherst,2001,1.85 ,1.41 ,1.90 ,1.00 
+University of Massachusetts Amherst,2002,2.59 ,1.66 ,1.00 ,3.03 
+University of Massachusetts Amherst,2003,2.19 ,1.54 ,1.00 ,1.92 
+University of Massachusetts Amherst,2004,2.02 ,1.67 ,1.22 ,1.33 
+University of Massachusetts Amherst,2005,2.68 ,1.50 ,1.20 ,1.29 
+University of Massachusetts Amherst,2006,1.94 ,1.75 ,1.33 ,1.69 
+University of Massachusetts Amherst,2007,3.63 ,2.08 ,1.46 ,1.48 
+University of Massachusetts Amherst,2008,2.05 ,1.76 ,1.83 ,1.29 
+University of Massachusetts Amherst,2009,2.25 ,1.55 ,1.00 ,1.20 
+University of Massachusetts Amherst,2010,2.32 ,1.71 ,2.08 ,1.35 
+University of Massachusetts Amherst,2011,3.65 ,1.83 ,1.20 ,1.55 
+University of Massachusetts Amherst,2012,2.19 ,1.77 ,1.83 ,1.97 
+University of Massachusetts Amherst,2013,3.19 ,1.67 ,1.22 ,1.74 
+University of Massachusetts Amherst,2014,2.43 ,2.06 ,2.20 ,1.50 
+University of Massachusetts Amherst,2015,2.79 ,1.79 ,2.00 ,1.39 
+University of Massachusetts Amherst,2016,2.59 ,1.77 ,1.39 ,1.62 
+University of Massachusetts Amherst,2017,3.33 ,1.68 ,2.00 ,1.46 
+University of Massachusetts Boston,2007,1.33 ,1.25 ,1.00 ,1.00 
+University of Massachusetts Boston,2008,1.00 ,1.20 ,1.00 ,1.25 
+University of Massachusetts Boston,2009,1.25 ,1.00 ,1.00 ,1.00 
+University of Massachusetts Boston,2010,1.25 ,1.00 ,1.00 ,1.00 
+University of Massachusetts Boston,2011,1.00 ,1.00 ,1.00 ,1.17 
+University of Massachusetts Boston,2012,1.42 ,1.00 ,1.00 ,1.25 
+University of Massachusetts Boston,2013,1.30 ,1.00 ,1.00 ,1.00 
+University of Massachusetts Boston,2014,1.00 ,1.33 ,1.00 ,1.00 
+University of Massachusetts Boston,2015,1.23 ,1.00 ,1.00 ,1.25 
+University of Massachusetts Boston,2016,1.33 ,1.14 ,1.00 ,1.53 
+University of Massachusetts Boston,2017,1.00 ,1.00 ,1.00 ,1.22 
+University of Massachusetts Lowell,2000,1.00 ,1.25 ,1.00 ,1.00 
+University of Massachusetts Lowell,2003,1.00 ,1.25 ,1.00 ,1.00 
+University of Massachusetts Lowell,2004,1.00 ,1.25 ,1.00 ,1.25 
+University of Massachusetts Lowell,2005,1.00 ,1.50 ,1.00 ,1.00 
+University of Massachusetts Lowell,2006,1.00 ,1.83 ,1.00 ,1.00 
+University of Massachusetts Lowell,2007,1.25 ,1.84 ,1.00 ,1.00 
+University of Massachusetts Lowell,2008,1.00 ,1.48 ,1.00 ,1.00 
+University of Massachusetts Lowell,2009,1.00 ,1.41 ,1.00 ,1.00 
+University of Massachusetts Lowell,2010,1.17 ,1.50 ,1.00 ,1.00 
+University of Massachusetts Lowell,2011,1.40 ,1.51 ,1.00 ,1.00 
+University of Massachusetts Lowell,2012,1.49 ,1.41 ,1.00 ,1.25 
+University of Massachusetts Lowell,2013,1.10 ,1.49 ,1.00 ,1.00 
+University of Massachusetts Lowell,2014,1.14 ,1.33 ,1.00 ,1.25 
+University of Massachusetts Lowell,2015,1.33 ,1.11 ,1.00 ,1.00 
+University of Massachusetts Lowell,2016,1.25 ,2.00 ,1.00 ,1.00 
+University of Massachusetts Lowell,2017,2.17 ,1.00 ,1.00 ,1.17 
+University of Miami,2000,1.50 ,1.00 ,1.00 ,1.00 
+University of Miami,2001,1.33 ,1.00 ,1.00 ,1.50 
+University of Miami,2003,1.33 ,1.00 ,1.00 ,1.00 
+University of Miami,2004,1.49 ,1.00 ,1.00 ,1.00 
+University of Miami,2005,1.33 ,1.00 ,1.00 ,1.00 
+University of Miami,2006,1.00 ,1.20 ,1.00 ,1.00 
+University of Miami,2007,1.00 ,1.17 ,1.00 ,1.00 
+University of Miami,2009,1.33 ,1.00 ,1.00 ,1.25 
+University of Miami,2010,1.00 ,1.00 ,1.00 ,1.33 
+University of Miami,2011,1.00 ,1.00 ,1.00 ,1.50 
+University of Miami,2012,1.33 ,1.00 ,1.00 ,1.00 
+University of Miami,2013,1.00 ,1.00 ,1.00 ,1.33 
+University of Miami,2014,1.00 ,1.00 ,1.00 ,1.33 
+University of Michigan,2000,1.80 ,1.75 ,1.25 ,2.00 
+University of Michigan,2001,1.54 ,1.70 ,1.25 ,1.86 
+University of Michigan,2002,1.95 ,2.01 ,1.98 ,1.54 
+University of Michigan,2003,1.75 ,2.12 ,2.17 ,1.53 
+University of Michigan,2004,1.94 ,1.85 ,1.00 ,2.29 
+University of Michigan,2005,2.67 ,2.09 ,3.45 ,1.58 
+University of Michigan,2006,2.42 ,2.15 ,1.00 ,1.93 
+University of Michigan,2007,2.44 ,2.11 ,2.08 ,1.83 
+University of Michigan,2008,2.20 ,2.31 ,2.82 ,2.15 
+University of Michigan,2009,1.86 ,2.35 ,2.02 ,2.20 
+University of Michigan,2010,2.19 ,2.27 ,3.39 ,2.42 
+University of Michigan,2011,2.50 ,2.08 ,1.33 ,2.30 
+University of Michigan,2012,2.61 ,2.40 ,2.08 ,2.20 
+University of Michigan,2013,2.89 ,2.07 ,1.84 ,2.26 
+University of Michigan,2014,2.22 ,2.26 ,1.87 ,2.02 
+University of Michigan,2015,2.64 ,2.22 ,2.83 ,3.15 
+University of Michigan,2016,2.47 ,2.12 ,1.83 ,2.20 
+University of Michigan,2017,2.27 ,2.35 ,3.45 ,2.02 
+University of Minnesota,2000,1.33 ,1.60 ,1.00 ,2.03 
+University of Minnesota,2001,1.39 ,1.36 ,1.00 ,1.69 
+University of Minnesota,2002,1.97 ,1.36 ,1.33 ,1.76 
+University of Minnesota,2003,1.70 ,1.41 ,1.25 ,1.85 
+University of Minnesota,2004,2.76 ,1.35 ,1.41 ,2.90 
+University of Minnesota,2005,1.64 ,1.34 ,1.33 ,1.99 
+University of Minnesota,2006,1.82 ,1.49 ,1.00 ,2.46 
+University of Minnesota,2007,1.39 ,1.54 ,1.00 ,2.75 
+University of Minnesota,2008,1.82 ,1.33 ,1.33 ,1.99 
+University of Minnesota,2009,1.26 ,1.50 ,1.00 ,2.27 
+University of Minnesota,2010,1.59 ,1.62 ,1.00 ,1.99 
+University of Minnesota,2011,2.46 ,1.50 ,1.00 ,4.06 
+University of Minnesota,2012,2.22 ,1.50 ,1.50 ,2.23 
+University of Minnesota,2013,2.46 ,1.34 ,1.00 ,2.56 
+University of Minnesota,2014,1.88 ,1.26 ,1.00 ,2.10 
+University of Minnesota,2015,2.50 ,1.64 ,1.00 ,2.17 
+University of Minnesota,2016,3.35 ,1.71 ,1.00 ,2.29 
+University of Minnesota,2017,2.42 ,1.61 ,1.00 ,1.88 
+University of Nebraska,2000,1.50 ,2.31 ,1.00 ,1.00 
+University of Nebraska,2001,1.50 ,1.64 ,1.00 ,1.00 
+University of Nebraska,2002,1.00 ,1.67 ,1.00 ,1.00 
+University of Nebraska,2003,1.50 ,2.22 ,1.00 ,1.13 
+University of Nebraska,2004,1.00 ,1.75 ,1.00 ,1.00 
+University of Nebraska,2005,1.33 ,1.58 ,1.00 ,1.00 
+University of Nebraska,2006,1.33 ,2.03 ,1.00 ,1.25 
+University of Nebraska,2007,1.73 ,1.84 ,1.00 ,1.17 
+University of Nebraska,2008,1.00 ,1.93 ,1.00 ,1.29 
+University of Nebraska,2009,1.00 ,2.04 ,1.00 ,1.00 
+University of Nebraska,2010,1.20 ,1.54 ,1.00 ,1.83 
+University of Nebraska,2011,1.50 ,1.93 ,1.00 ,1.00 
+University of Nebraska,2012,1.00 ,1.71 ,1.00 ,1.71 
+University of Nebraska,2013,1.53 ,2.09 ,1.00 ,1.49 
+University of Nebraska,2014,1.00 ,2.30 ,1.00 ,1.41 
+University of Nebraska,2015,1.00 ,1.87 ,1.00 ,1.90 
+University of Nebraska,2016,1.00 ,3.48 ,1.00 ,2.17 
+University of Nebraska,2017,1.00 ,4.15 ,1.00 ,1.67 
+University of Nevada,2001,1.00 ,1.00 ,1.00 ,1.50 
+University of Nevada,2002,1.50 ,1.00 ,1.00 ,1.00 
+University of Nevada,2003,1.50 ,1.00 ,1.00 ,1.00 
+University of Nevada,2004,1.33 ,1.00 ,1.00 ,1.00 
+University of Nevada,2007,1.50 ,1.50 ,1.00 ,1.00 
+University of Nevada,2009,1.00 ,1.00 ,1.00 ,2.00 
+University of Nevada,2010,1.00 ,1.00 ,1.00 ,1.83 
+University of Nevada,2011,1.00 ,1.00 ,1.00 ,1.78 
+University of Nevada,2012,1.00 ,1.00 ,1.00 ,1.61 
+University of Nevada,2013,1.00 ,1.00 ,1.00 ,2.00 
+University of Nevada,2014,1.00 ,1.00 ,1.00 ,1.75 
+University of Nevada,2015,1.25 ,1.33 ,1.00 ,1.75 
+University of Nevada,2016,1.00 ,1.58 ,1.00 ,1.60 
+University of Nevada,2017,1.00 ,1.10 ,1.00 ,1.51 
+University of New Mexico,2000,1.50 ,1.50 ,1.00 ,1.25 
+University of New Mexico,2001,1.50 ,1.33 ,1.40 ,1.00 
+University of New Mexico,2002,1.00 ,1.48 ,1.50 ,1.00 
+University of New Mexico,2003,1.00 ,1.36 ,2.50 ,1.00 
+University of New Mexico,2004,1.00 ,1.61 ,1.75 ,1.33 
+University of New Mexico,2005,1.20 ,1.25 ,2.50 ,1.20 
+University of New Mexico,2006,1.50 ,1.18 ,3.00 ,1.37 
+University of New Mexico,2007,1.33 ,1.29 ,1.33 ,1.50 
+University of New Mexico,2008,1.00 ,1.46 ,1.40 ,1.00 
+University of New Mexico,2009,1.00 ,1.25 ,1.00 ,1.43 
+University of New Mexico,2010,1.50 ,1.33 ,1.00 ,1.36 
+University of New Mexico,2011,1.29 ,1.22 ,1.00 ,1.61 
+University of New Mexico,2012,1.13 ,1.66 ,1.00 ,1.40 
+University of New Mexico,2013,1.00 ,1.33 ,1.50 ,1.56 
+University of New Mexico,2014,1.00 ,1.29 ,1.50 ,1.25 
+University of New Mexico,2015,1.40 ,1.00 ,1.00 ,2.20 
+University of New Mexico,2016,1.00 ,1.53 ,1.20 ,2.12 
+University of New Mexico,2017,1.00 ,1.00 ,1.00 ,1.20 
+University of North Carolina,2000,1.00 ,1.22 ,1.33 ,2.06 
+University of North Carolina,2001,2.33 ,1.84 ,1.50 ,1.91 
+University of North Carolina,2002,1.37 ,1.61 ,1.50 ,1.81 
+University of North Carolina,2003,1.75 ,1.56 ,1.00 ,1.98 
+University of North Carolina,2004,2.13 ,2.08 ,1.50 ,1.83 
+University of North Carolina,2005,3.00 ,1.68 ,1.00 ,2.43 
+University of North Carolina,2006,1.90 ,1.43 ,1.00 ,1.56 
+University of North Carolina,2007,4.65 ,1.61 ,1.00 ,1.87 
+University of North Carolina,2008,3.40 ,1.53 ,1.00 ,1.72 
+University of North Carolina,2009,2.02 ,1.73 ,1.00 ,1.91 
+University of North Carolina,2010,1.85 ,1.99 ,1.00 ,1.81 
+University of North Carolina,2011,2.09 ,1.91 ,1.00 ,1.59 
+University of North Carolina,2012,2.05 ,1.42 ,1.00 ,1.61 
+University of North Carolina,2013,1.96 ,1.78 ,1.00 ,1.84 
+University of North Carolina,2014,3.40 ,1.69 ,1.00 ,2.47 
+University of North Carolina,2015,1.95 ,1.37 ,1.00 ,1.52 
+University of North Carolina,2016,2.06 ,1.84 ,1.00 ,2.11 
+University of North Carolina,2017,2.41 ,1.35 ,1.00 ,1.66 
+University of Notre Dame,2000,2.33 ,1.71 ,1.00 ,1.25 
+University of Notre Dame,2001,1.63 ,1.80 ,1.00 ,1.00 
+University of Notre Dame,2002,1.00 ,1.58 ,1.00 ,1.00 
+University of Notre Dame,2003,1.00 ,1.54 ,1.00 ,1.33 
+University of Notre Dame,2004,1.00 ,1.38 ,1.00 ,1.00 
+University of Notre Dame,2005,2.43 ,1.68 ,1.00 ,1.00 
+University of Notre Dame,2006,1.00 ,1.83 ,1.00 ,1.50 
+University of Notre Dame,2007,1.83 ,1.35 ,1.00 ,1.00 
+University of Notre Dame,2008,1.58 ,1.34 ,1.00 ,1.33 
+University of Notre Dame,2009,1.67 ,1.60 ,1.00 ,1.00 
+University of Notre Dame,2010,1.53 ,1.77 ,1.00 ,1.20 
+University of Notre Dame,2011,1.26 ,1.39 ,1.00 ,1.94 
+University of Notre Dame,2012,1.39 ,1.66 ,1.00 ,1.20 
+University of Notre Dame,2013,1.42 ,1.45 ,1.00 ,1.00 
+University of Notre Dame,2014,1.52 ,1.66 ,1.00 ,1.31 
+University of Notre Dame,2015,1.67 ,1.39 ,1.00 ,1.33 
+University of Notre Dame,2016,1.53 ,1.43 ,1.00 ,1.20 
+University of Notre Dame,2017,1.44 ,1.61 ,1.00 ,1.00 
+University of Oregon,2000,1.00 ,1.29 ,1.00 ,1.00 
+University of Oregon,2001,1.00 ,1.17 ,1.00 ,1.00 
+University of Oregon,2003,1.00 ,1.00 ,1.00 ,1.50 
+University of Oregon,2004,1.00 ,1.33 ,1.00 ,1.00 
+University of Oregon,2005,2.00 ,1.73 ,1.00 ,1.51 
+University of Oregon,2006,1.00 ,1.64 ,1.00 ,1.00 
+University of Oregon,2007,1.41 ,1.22 ,1.00 ,1.00 
+University of Oregon,2008,1.00 ,1.26 ,1.00 ,1.00 
+University of Oregon,2009,1.00 ,1.24 ,1.00 ,1.00 
+University of Oregon,2010,1.50 ,1.33 ,1.00 ,1.33 
+University of Oregon,2011,1.50 ,1.18 ,1.00 ,1.00 
+University of Oregon,2012,1.00 ,1.00 ,1.00 ,1.13 
+University of Oregon,2013,1.34 ,1.25 ,1.00 ,1.14 
+University of Oregon,2014,2.00 ,1.34 ,1.00 ,2.00 
+University of Oregon,2015,1.50 ,1.29 ,1.00 ,1.00 
+University of Oregon,2016,1.79 ,1.29 ,1.17 ,1.00 
+University of Oregon,2017,1.00 ,1.58 ,1.00 ,1.20 
+University of Pennsylvania,2000,3.67 ,1.89 ,2.56 ,1.88 
+University of Pennsylvania,2001,2.52 ,1.63 ,2.53 ,2.78 
+University of Pennsylvania,2002,2.15 ,1.36 ,2.28 ,2.22 
+University of Pennsylvania,2003,2.29 ,1.59 ,1.83 ,2.71 
+University of Pennsylvania,2004,2.41 ,1.88 ,4.42 ,3.40 
+University of Pennsylvania,2005,2.19 ,1.84 ,1.93 ,2.91 
+University of Pennsylvania,2006,2.39 ,1.57 ,2.30 ,2.41 
+University of Pennsylvania,2007,2.29 ,1.59 ,2.04 ,2.87 
+University of Pennsylvania,2008,2.49 ,1.57 ,1.89 ,3.30 
+University of Pennsylvania,2009,1.83 ,1.63 ,1.97 ,2.92 
+University of Pennsylvania,2010,3.08 ,1.84 ,1.87 ,3.51 
+University of Pennsylvania,2011,3.42 ,2.15 ,2.75 ,2.81 
+University of Pennsylvania,2012,2.71 ,1.71 ,2.13 ,2.51 
+University of Pennsylvania,2013,3.11 ,1.46 ,1.68 ,7.31 
+University of Pennsylvania,2014,2.86 ,1.61 ,1.98 ,2.66 
+University of Pennsylvania,2015,3.93 ,1.57 ,2.20 ,2.83 
+University of Pennsylvania,2016,3.10 ,1.50 ,2.02 ,3.05 
+University of Pennsylvania,2017,3.23 ,1.64 ,1.51 ,2.63 
+University of Pittsburgh,2000,2.75 ,1.61 ,1.00 ,1.00 
+University of Pittsburgh,2001,1.67 ,1.70 ,1.00 ,1.33 
+University of Pittsburgh,2002,1.22 ,1.67 ,1.50 ,1.00 
+University of Pittsburgh,2003,1.63 ,1.45 ,1.50 ,1.00 
+University of Pittsburgh,2004,1.83 ,1.49 ,1.83 ,1.00 
+University of Pittsburgh,2005,1.99 ,1.27 ,1.00 ,1.13 
+University of Pittsburgh,2006,2.55 ,1.53 ,2.00 ,1.33 
+University of Pittsburgh,2007,2.05 ,1.44 ,1.50 ,1.00 
+University of Pittsburgh,2008,1.59 ,1.33 ,1.00 ,1.00 
+University of Pittsburgh,2009,2.17 ,1.69 ,1.83 ,1.00 
+University of Pittsburgh,2010,1.76 ,1.60 ,1.50 ,1.44 
+University of Pittsburgh,2011,2.02 ,1.44 ,1.00 ,1.00 
+University of Pittsburgh,2012,1.48 ,1.73 ,1.53 ,2.00 
+University of Pittsburgh,2013,2.39 ,1.53 ,1.00 ,1.00 
+University of Pittsburgh,2014,1.98 ,1.56 ,1.64 ,1.29 
+University of Pittsburgh,2015,2.07 ,1.82 ,1.00 ,1.45 
+University of Pittsburgh,2016,3.32 ,1.45 ,1.00 ,1.00 
+University of Pittsburgh,2017,2.35 ,1.54 ,1.00 ,1.22 
+University of Rochester,2000,1.51 ,1.90 ,1.00 ,1.00 
+University of Rochester,2001,1.53 ,1.67 ,1.50 ,1.00 
+University of Rochester,2002,1.52 ,1.61 ,1.33 ,1.00 
+University of Rochester,2003,1.70 ,1.55 ,1.33 ,1.22 
+University of Rochester,2004,1.74 ,1.83 ,1.50 ,1.11 
+University of Rochester,2005,1.58 ,1.63 ,1.00 ,1.00 
+University of Rochester,2006,2.05 ,1.56 ,1.25 ,1.50 
+University of Rochester,2007,2.40 ,1.80 ,1.83 ,1.00 
+University of Rochester,2008,2.09 ,2.62 ,1.20 ,1.67 
+University of Rochester,2009,1.79 ,1.51 ,1.33 ,1.00 
+University of Rochester,2010,2.07 ,1.78 ,1.25 ,1.00 
+University of Rochester,2011,1.36 ,1.33 ,1.37 ,1.00 
+University of Rochester,2012,2.28 ,1.50 ,1.00 ,1.25 
+University of Rochester,2013,1.97 ,3.03 ,1.00 ,1.37 
+University of Rochester,2014,1.55 ,1.63 ,1.33 ,1.33 
+University of Rochester,2015,1.79 ,2.02 ,1.25 ,1.33 
+University of Rochester,2016,1.80 ,2.49 ,1.34 ,1.45 
+University of Rochester,2017,1.62 ,1.37 ,1.33 ,1.20 
+University of South Carolina,2000,1.00 ,1.00 ,1.00 ,1.33 
+University of South Carolina,2001,2.08 ,1.00 ,1.00 ,1.25 
+University of South Carolina,2002,1.00 ,1.00 ,1.00 ,1.33 
+University of South Carolina,2003,1.33 ,1.00 ,1.00 ,1.87 
+University of South Carolina,2004,1.67 ,1.33 ,1.00 ,1.78 
+University of South Carolina,2005,1.50 ,1.00 ,1.00 ,2.07 
+University of South Carolina,2006,1.80 ,1.46 ,1.00 ,3.00 
+University of South Carolina,2007,1.50 ,1.00 ,1.00 ,1.83 
+University of South Carolina,2008,2.17 ,1.00 ,1.00 ,1.67 
+University of South Carolina,2009,2.08 ,1.17 ,1.00 ,2.58 
+University of South Carolina,2010,1.67 ,1.23 ,1.00 ,3.00 
+University of South Carolina,2011,1.45 ,1.35 ,1.00 ,3.48 
+University of South Carolina,2012,1.48 ,1.25 ,1.00 ,2.91 
+University of South Carolina,2013,1.10 ,1.40 ,1.00 ,2.00 
+University of South Carolina,2014,1.67 ,1.70 ,1.00 ,2.75 
+University of South Carolina,2015,1.32 ,1.22 ,1.00 ,2.20 
+University of South Carolina,2016,1.19 ,1.46 ,1.33 ,1.92 
+University of South Carolina,2017,1.00 ,1.20 ,1.00 ,1.78 
+University of South Florida,2000,1.83 ,1.00 ,1.00 ,1.00 
+University of South Florida,2001,2.00 ,1.00 ,1.00 ,1.00 
+University of South Florida,2002,1.00 ,1.08 ,1.00 ,1.00 
+University of South Florida,2003,1.00 ,1.33 ,1.25 ,1.00 
+University of South Florida,2004,1.92 ,1.00 ,1.00 ,1.00 
+University of South Florida,2005,1.00 ,1.40 ,1.00 ,1.00 
+University of South Florida,2006,1.50 ,1.32 ,1.00 ,1.50 
+University of South Florida,2007,1.33 ,1.17 ,1.00 ,1.00 
+University of South Florida,2008,1.00 ,1.50 ,1.00 ,1.00 
+University of South Florida,2009,1.83 ,1.33 ,1.00 ,1.33 
+University of South Florida,2010,1.00 ,1.33 ,1.00 ,1.25 
+University of South Florida,2012,1.14 ,1.50 ,1.00 ,1.00 
+University of South Florida,2013,1.00 ,1.20 ,1.00 ,1.58 
+University of South Florida,2014,1.25 ,1.25 ,1.00 ,1.90 
+University of South Florida,2015,1.23 ,1.25 ,1.00 ,2.00 
+University of South Florida,2016,1.36 ,1.14 ,1.00 ,1.15 
+University of South Florida,2017,1.38 ,1.36 ,1.00 ,1.13 
+University of Southern California,2000,2.48 ,1.37 ,1.73 ,1.87 
+University of Southern California,2001,1.94 ,1.35 ,2.83 ,2.61 
+University of Southern California,2002,2.00 ,1.32 ,2.51 ,2.47 
+University of Southern California,2003,1.87 ,1.44 ,1.83 ,3.55 
+University of Southern California,2004,2.22 ,1.37 ,3.53 ,2.23 
+University of Southern California,2005,2.62 ,1.44 ,2.00 ,2.53 
+University of Southern California,2006,2.69 ,1.56 ,1.79 ,2.08 
+University of Southern California,2007,3.58 ,1.40 ,1.65 ,3.03 
+University of Southern California,2008,2.22 ,1.62 ,2.95 ,1.88 
+University of Southern California,2009,2.28 ,1.78 ,2.38 ,2.26 
+University of Southern California,2010,2.46 ,1.66 ,2.12 ,2.60 
+University of Southern California,2011,3.15 ,1.35 ,4.48 ,2.56 
+University of Southern California,2012,2.66 ,1.70 ,1.70 ,2.45 
+University of Southern California,2013,2.67 ,1.64 ,2.63 ,3.17 
+University of Southern California,2014,2.94 ,1.79 ,2.20 ,2.57 
+University of Southern California,2015,3.06 ,1.50 ,1.83 ,3.15 
+University of Southern California,2016,2.82 ,1.62 ,1.94 ,2.65 
+University of Southern California,2017,2.72 ,2.05 ,2.33 ,2.53 
+University of Tennessee,2000,1.50 ,1.43 ,1.00 ,1.25 
+University of Tennessee,2001,1.43 ,1.20 ,1.00 ,1.25 
+University of Tennessee,2002,1.00 ,1.66 ,1.00 ,3.00 
+University of Tennessee,2003,1.33 ,1.33 ,1.00 ,1.55 
+University of Tennessee,2004,1.00 ,1.50 ,1.00 ,1.38 
+University of Tennessee,2005,1.00 ,1.19 ,1.00 ,1.67 
+University of Tennessee,2006,1.50 ,2.43 ,1.00 ,1.58 
+University of Tennessee,2007,1.46 ,1.22 ,1.00 ,2.87 
+University of Tennessee,2008,1.37 ,1.39 ,1.00 ,1.98 
+University of Tennessee,2009,1.38 ,1.61 ,1.00 ,2.77 
+University of Tennessee,2010,1.37 ,1.54 ,1.00 ,1.80 
+University of Tennessee,2011,1.46 ,1.72 ,1.17 ,2.37 
+University of Tennessee,2012,1.00 ,1.36 ,1.00 ,1.95 
+University of Tennessee,2013,1.61 ,1.58 ,1.00 ,1.51 
+University of Tennessee,2014,1.29 ,1.41 ,1.00 ,1.45 
+University of Tennessee,2015,1.55 ,1.39 ,1.00 ,1.72 
+University of Tennessee,2016,1.29 ,1.42 ,1.00 ,1.25 
+University of Tennessee,2017,1.36 ,1.27 ,1.00 ,1.25 
+University of Texas at Arlington,2000,1.33 ,1.50 ,1.00 ,2.00 
+University of Texas at Arlington,2001,1.38 ,1.87 ,1.00 ,1.00 
+University of Texas at Arlington,2002,1.00 ,1.50 ,1.00 ,1.73 
+University of Texas at Arlington,2003,1.73 ,1.58 ,1.00 ,1.25 
+University of Texas at Arlington,2004,1.71 ,2.08 ,1.00 ,1.00 
+University of Texas at Arlington,2005,1.56 ,1.53 ,1.00 ,1.00 
+University of Texas at Arlington,2006,1.46 ,1.66 ,1.00 ,1.73 
+University of Texas at Arlington,2007,1.76 ,1.47 ,1.00 ,1.50 
+University of Texas at Arlington,2008,1.90 ,1.33 ,1.00 ,1.00 
+University of Texas at Arlington,2009,2.07 ,1.58 ,1.00 ,1.70 
+University of Texas at Arlington,2010,1.75 ,1.65 ,1.00 ,1.00 
+University of Texas at Arlington,2011,2.36 ,1.85 ,1.00 ,1.00 
+University of Texas at Arlington,2012,1.90 ,1.42 ,1.00 ,1.83 
+University of Texas at Arlington,2013,2.02 ,1.37 ,1.00 ,1.00 
+University of Texas at Arlington,2014,1.70 ,1.43 ,1.00 ,1.33 
+University of Texas at Arlington,2015,1.41 ,1.56 ,1.00 ,1.00 
+University of Texas at Arlington,2016,1.67 ,1.62 ,1.00 ,1.00 
+University of Texas at Arlington,2017,1.57 ,1.56 ,1.00 ,1.00 
+University of Texas at Austin,2000,2.46 ,1.62 ,1.41 ,1.33 
+University of Texas at Austin,2001,1.70 ,1.54 ,2.61 ,1.00 
+University of Texas at Austin,2002,1.68 ,1.41 ,3.67 ,1.00 
+University of Texas at Austin,2003,1.90 ,1.46 ,2.29 ,2.00 
+University of Texas at Austin,2004,2.33 ,1.47 ,3.27 ,1.29 
+University of Texas at Austin,2005,2.11 ,1.46 ,2.79 ,2.67 
+University of Texas at Austin,2006,2.65 ,1.57 ,3.39 ,1.73 
+University of Texas at Austin,2007,2.99 ,1.62 ,2.25 ,2.00 
+University of Texas at Austin,2008,2.48 ,1.72 ,2.72 ,2.50 
+University of Texas at Austin,2009,2.09 ,1.77 ,2.75 ,1.39 
+University of Texas at Austin,2010,3.31 ,1.60 ,2.74 ,1.80 
+University of Texas at Austin,2011,3.67 ,1.93 ,2.69 ,1.64 
+University of Texas at Austin,2012,2.32 ,1.37 ,2.48 ,2.06 
+University of Texas at Austin,2013,3.35 ,1.40 ,2.01 ,1.45 
+University of Texas at Austin,2014,3.42 ,1.41 ,2.59 ,1.48 
+University of Texas at Austin,2015,3.06 ,1.65 ,2.77 ,1.81 
+University of Texas at Austin,2016,3.36 ,1.63 ,2.79 ,1.37 
+University of Texas at Austin,2017,2.62 ,1.73 ,2.05 ,1.34 
+University of Texas at Dallas,2000,1.29 ,1.50 ,1.32 ,1.00 
+University of Texas at Dallas,2001,1.83 ,1.50 ,1.00 ,1.00 
+University of Texas at Dallas,2002,2.16 ,1.00 ,1.50 ,1.00 
+University of Texas at Dallas,2003,3.58 ,1.50 ,2.33 ,1.33 
+University of Texas at Dallas,2004,1.73 ,1.00 ,1.50 ,1.00 
+University of Texas at Dallas,2005,2.16 ,1.60 ,1.00 ,1.00 
+University of Texas at Dallas,2006,2.03 ,1.41 ,1.00 ,1.00 
+University of Texas at Dallas,2007,2.34 ,1.37 ,1.25 ,1.00 
+University of Texas at Dallas,2008,2.12 ,1.46 ,1.33 ,1.20 
+University of Texas at Dallas,2009,1.93 ,1.52 ,1.00 ,1.00 
+University of Texas at Dallas,2010,2.30 ,1.46 ,2.00 ,2.00 
+University of Texas at Dallas,2011,4.08 ,1.46 ,1.50 ,1.00 
+University of Texas at Dallas,2012,3.01 ,2.15 ,1.33 ,1.00 
+University of Texas at Dallas,2013,2.48 ,1.43 ,3.33 ,1.14 
+University of Texas at Dallas,2014,2.39 ,2.38 ,1.25 ,1.00 
+University of Texas at Dallas,2015,2.84 ,1.66 ,1.83 ,1.17 
+University of Texas at Dallas,2016,2.23 ,2.03 ,1.67 ,1.50 
+University of Texas at Dallas,2017,1.85 ,1.87 ,1.50 ,1.00 
+University of Texas at San Antonio,2000,1.33 ,1.33 ,1.00 ,1.00 
+University of Texas at San Antonio,2001,1.00 ,1.33 ,1.00 ,1.00 
+University of Texas at San Antonio,2002,1.00 ,1.33 ,1.25 ,1.00 
+University of Texas at San Antonio,2003,1.20 ,1.33 ,1.00 ,1.00 
+University of Texas at San Antonio,2004,1.00 ,1.41 ,1.00 ,1.33 
+University of Texas at San Antonio,2006,1.37 ,1.35 ,1.00 ,1.00 
+University of Texas at San Antonio,2007,1.00 ,1.50 ,1.00 ,1.00 
+University of Texas at San Antonio,2008,1.45 ,1.24 ,1.20 ,1.20 
+University of Texas at San Antonio,2009,1.00 ,1.31 ,1.50 ,1.00 
+University of Texas at San Antonio,2010,1.00 ,1.45 ,1.00 ,1.00 
+University of Texas at San Antonio,2011,2.17 ,1.39 ,1.00 ,1.00 
+University of Texas at San Antonio,2012,1.51 ,1.49 ,1.00 ,1.00 
+University of Texas at San Antonio,2013,1.85 ,1.53 ,1.00 ,1.00 
+University of Texas at San Antonio,2014,1.48 ,1.41 ,1.00 ,1.00 
+University of Texas at San Antonio,2015,2.15 ,1.25 ,1.00 ,1.33 
+University of Texas at San Antonio,2016,2.54 ,1.70 ,1.00 ,1.00 
+University of Texas at San Antonio,2017,1.76 ,1.45 ,1.00 ,1.50 
+University of Utah,2000,1.00 ,1.32 ,1.53 ,2.48 
+University of Utah,2001,1.00 ,1.49 ,1.33 ,1.88 
+University of Utah,2002,1.00 ,1.49 ,1.33 ,2.11 
+University of Utah,2003,1.26 ,1.50 ,1.00 ,3.33 
+University of Utah,2004,1.50 ,1.60 ,1.33 ,2.46 
+University of Utah,2005,1.51 ,1.40 ,1.00 ,1.50 
+University of Utah,2006,1.46 ,1.32 ,2.00 ,1.50 
+University of Utah,2007,1.58 ,1.53 ,1.20 ,3.04 
+University of Utah,2008,1.46 ,1.35 ,1.67 ,2.20 
+University of Utah,2009,1.59 ,1.47 ,1.33 ,1.82 
+University of Utah,2010,1.69 ,1.52 ,1.20 ,1.57 
+University of Utah,2011,1.65 ,1.52 ,1.50 ,1.70 
+University of Utah,2012,1.83 ,1.56 ,2.12 ,2.36 
+University of Utah,2013,1.94 ,1.59 ,2.25 ,2.02 
+University of Utah,2014,2.02 ,1.54 ,1.84 ,1.86 
+University of Utah,2015,1.61 ,1.51 ,1.50 ,1.54 
+University of Utah,2016,1.92 ,1.76 ,1.20 ,1.35 
+University of Utah,2017,1.72 ,1.42 ,1.00 ,1.66 
+University of Vermont,2000,1.00 ,1.50 ,1.00 ,1.00 
+University of Vermont,2001,1.00 ,1.00 ,1.00 ,1.50 
+University of Vermont,2004,1.00 ,1.00 ,1.00 ,1.50 
+University of Vermont,2005,1.00 ,1.00 ,1.00 ,1.25 
+University of Vermont,2006,1.00 ,1.33 ,1.00 ,1.00 
+University of Vermont,2010,1.25 ,1.00 ,1.00 ,1.00 
+University of Vermont,2011,1.00 ,1.33 ,1.00 ,1.00 
+University of Vermont,2013,1.00 ,1.14 ,1.00 ,1.00 
+University of Vermont,2015,1.00 ,1.33 ,1.00 ,1.00 
+University of Vermont,2016,1.00 ,1.50 ,1.00 ,1.00 
+University of Vermont,2017,1.00 ,1.25 ,1.00 ,1.00 
+University of Virginia,2000,1.00 ,1.40 ,1.50 ,1.00 
+University of Virginia,2001,1.00 ,2.08 ,1.00 ,1.00 
+University of Virginia,2002,1.00 ,1.43 ,1.00 ,1.00 
+University of Virginia,2003,1.00 ,1.52 ,1.00 ,1.00 
+University of Virginia,2004,1.00 ,1.70 ,1.00 ,1.00 
+University of Virginia,2005,1.00 ,1.37 ,1.00 ,1.00 
+University of Virginia,2006,1.00 ,1.45 ,1.00 ,1.00 
+University of Virginia,2007,1.00 ,1.48 ,1.00 ,1.00 
+University of Virginia,2008,1.00 ,1.47 ,1.00 ,1.32 
+University of Virginia,2009,1.56 ,1.61 ,1.00 ,1.25 
+University of Virginia,2010,1.29 ,1.47 ,1.25 ,1.44 
+University of Virginia,2011,1.49 ,1.54 ,1.33 ,1.00 
+University of Virginia,2012,1.29 ,1.63 ,1.50 ,1.51 
+University of Virginia,2013,1.42 ,1.28 ,1.33 ,1.42 
+University of Virginia,2014,1.50 ,1.42 ,1.20 ,1.37 
+University of Virginia,2015,1.58 ,1.38 ,1.33 ,1.40 
+University of Virginia,2016,1.76 ,1.49 ,1.50 ,1.24 
+University of Virginia,2017,1.87 ,1.29 ,1.33 ,1.38 
+University of Washington,2000,2.91 ,1.47 ,1.38 ,1.95 
+University of Washington,2001,2.78 ,1.94 ,1.84 ,1.32 
+University of Washington,2002,1.92 ,1.57 ,2.45 ,2.95 
+University of Washington,2003,2.64 ,1.68 ,1.66 ,2.64 
+University of Washington,2004,1.98 ,1.99 ,1.77 ,2.31 
+University of Washington,2005,3.41 ,1.78 ,1.87 ,2.15 
+University of Washington,2006,2.52 ,1.83 ,2.40 ,2.51 
+University of Washington,2007,2.84 ,2.00 ,2.92 ,2.95 
+University of Washington,2008,2.93 ,2.29 ,4.58 ,2.27 
+University of Washington,2009,3.76 ,1.66 ,2.58 ,2.66 
+University of Washington,2010,3.87 ,2.18 ,3.78 ,3.71 
+University of Washington,2011,2.81 ,2.34 ,2.49 ,3.12 
+University of Washington,2012,3.87 ,2.03 ,4.75 ,3.32 
+University of Washington,2013,2.54 ,2.12 ,4.40 ,3.59 
+University of Washington,2014,4.12 ,2.22 ,4.95 ,3.15 
+University of Washington,2015,4.98 ,1.93 ,4.00 ,4.15 
+University of Washington,2016,3.56 ,2.41 ,2.20 ,3.22 
+University of Washington,2017,2.84 ,1.98 ,2.87 ,3.27 
+University of Wisconsin - Madison,2000,1.40 ,1.75 ,1.34 ,1.40 
+University of Wisconsin - Madison,2001,2.00 ,1.81 ,3.20 ,1.50 
+University of Wisconsin - Madison,2002,1.58 ,2.06 ,1.38 ,1.75 
+University of Wisconsin - Madison,2003,1.95 ,2.18 ,1.17 ,1.32 
+University of Wisconsin - Madison,2004,3.08 ,2.27 ,1.38 ,1.50 
+University of Wisconsin - Madison,2005,1.93 ,1.83 ,1.53 ,1.41 
+University of Wisconsin - Madison,2006,1.53 ,1.92 ,2.00 ,1.53 
+University of Wisconsin - Madison,2007,1.90 ,1.91 ,1.60 ,1.52 
+University of Wisconsin - Madison,2008,1.93 ,1.97 ,1.80 ,1.37 
+University of Wisconsin - Madison,2009,2.02 ,1.62 ,1.83 ,1.48 
+University of Wisconsin - Madison,2010,1.98 ,1.78 ,2.29 ,2.00 
+University of Wisconsin - Madison,2011,2.59 ,2.07 ,1.33 ,1.42 
+University of Wisconsin - Madison,2012,1.79 ,1.86 ,2.85 ,1.66 
+University of Wisconsin - Madison,2013,2.50 ,2.06 ,2.31 ,1.97 
+University of Wisconsin - Madison,2014,2.13 ,2.36 ,2.01 ,1.65 
+University of Wisconsin - Madison,2015,2.24 ,1.96 ,1.50 ,1.72 
+University of Wisconsin - Madison,2016,2.35 ,2.22 ,1.71 ,1.74 
+University of Wisconsin - Madison,2017,3.09 ,2.22 ,2.20 ,2.02 
+Vanderbilt University,2000,1.37 ,1.00 ,1.33 ,1.00 
+Vanderbilt University,2001,1.17 ,3.00 ,2.00 ,1.00 
+Vanderbilt University,2002,1.00 ,1.63 ,1.50 ,1.25 
+Vanderbilt University,2003,1.50 ,1.50 ,1.75 ,1.25 
+Vanderbilt University,2004,1.00 ,1.52 ,1.00 ,1.50 
+Vanderbilt University,2005,1.33 ,1.73 ,1.00 ,1.00 
+Vanderbilt University,2006,1.50 ,1.57 ,1.00 ,2.16 
+Vanderbilt University,2007,1.49 ,1.63 ,1.00 ,2.00 
+Vanderbilt University,2008,1.00 ,1.83 ,1.00 ,1.00 
+Vanderbilt University,2009,1.25 ,2.00 ,1.00 ,2.00 
+Vanderbilt University,2010,1.00 ,1.85 ,1.00 ,2.00 
+Vanderbilt University,2011,1.33 ,1.40 ,1.00 ,2.00 
+Vanderbilt University,2012,1.64 ,1.58 ,1.00 ,2.00 
+Vanderbilt University,2013,1.00 ,1.34 ,1.00 ,1.00 
+Vanderbilt University,2014,1.50 ,1.22 ,1.00 ,1.00 
+Vanderbilt University,2015,3.00 ,1.50 ,1.00 ,1.17 
+Vanderbilt University,2016,2.17 ,1.50 ,1.00 ,1.00 
+Vanderbilt University,2017,1.25 ,1.00 ,1.00 ,1.20 
+Virginia Commonwealth University,2002,1.00 ,1.00 ,1.00 ,1.50 
+Virginia Commonwealth University,2004,1.00 ,1.00 ,1.00 ,1.50 
+Virginia Commonwealth University,2007,1.00 ,1.20 ,1.00 ,1.00 
+Virginia Commonwealth University,2009,1.00 ,1.00 ,1.33 ,2.00 
+Virginia Commonwealth University,2010,1.00 ,1.00 ,1.00 ,1.33 
+Virginia Commonwealth University,2011,1.00 ,1.25 ,1.00 ,1.50 
+Virginia Commonwealth University,2012,1.00 ,1.25 ,1.00 ,1.30 
+Virginia Commonwealth University,2013,1.17 ,1.00 ,1.00 ,1.00 
+Virginia Commonwealth University,2014,1.00 ,1.00 ,1.11 ,1.34 
+Virginia Commonwealth University,2015,1.00 ,1.00 ,1.58 ,1.00 
+Virginia Commonwealth University,2016,1.17 ,1.33 ,1.33 ,1.50 
+Virginia Commonwealth University,2017,1.37 ,1.25 ,1.00 ,1.00 
+Virginia Tech,2000,1.00 ,1.40 ,1.62 ,1.00 
+Virginia Tech,2001,1.41 ,1.56 ,1.25 ,1.50 
+Virginia Tech,2002,1.00 ,1.39 ,1.00 ,1.50 
+Virginia Tech,2003,1.50 ,1.67 ,1.00 ,1.11 
+Virginia Tech,2004,1.42 ,1.34 ,1.45 ,1.33 
+Virginia Tech,2005,1.37 ,1.63 ,1.25 ,1.40 
+Virginia TECh,2006,1.58 ,1.46 ,1.00 ,2.12 
+Virginia Tech,2007,1.39 ,1.75 ,1.00 ,1.66 
+Virginia Tech,2008,1.55 ,1.71 ,1.00 ,1.85 
+Virginia Tech,2009,1.45 ,1.80 ,1.00 ,1.29 
+Virginia Tech,2010,2.21 ,1.30 ,1.00 ,1.68 
+Virginia Tech,2011,1.61 ,1.25 ,1.00 ,1.65 
+Virginia Tech,2012,1.45 ,1.40 ,1.00 ,1.82 
+Virginia Tech,2013,1.59 ,1.45 ,1.00 ,2.45 
+Virginia Tech,2014,1.63 ,1.37 ,1.00 ,1.52 
+Virginia Tech,2015,1.52 ,1.63 ,1.00 ,1.25 
+Virginia Tech,2016,2.25 ,1.62 ,1.00 ,1.52 
+Virginia Tech,2017,1.50 ,1.57 ,1.00 ,1.00 
+Washington State University,2000,1.00 ,1.50 ,1.20 ,1.00 
+Washington State University,2001,1.00 ,1.00 ,2.00 ,1.00 
+Washington State University,2002,1.33 ,1.33 ,1.00 ,1.00 
+Washington State University,2003,1.50 ,1.00 ,1.25 ,1.25 
+Washington State University,2005,1.33 ,1.23 ,1.00 ,1.00 
+Washington State University,2006,1.00 ,1.83 ,1.00 ,1.00 
+Washington State University,2007,1.67 ,1.15 ,1.00 ,1.00 
+Washington State University,2008,1.87 ,1.26 ,1.00 ,1.00 
+Washington State University,2009,2.47 ,1.25 ,1.00 ,1.07 
+Washington State University,2010,1.25 ,1.28 ,1.00 ,1.00 
+Washington State University,2011,1.67 ,1.32 ,1.00 ,1.00 
+Washington State University,2012,1.67 ,1.38 ,1.00 ,1.25 
+Washington State University,2013,1.33 ,1.48 ,1.00 ,1.00 
+Washington State University,2014,1.22 ,1.83 ,1.00 ,1.00 
+Washington State University,2015,1.49 ,1.48 ,1.00 ,1.20 
+Washington State University,2016,1.51 ,1.55 ,1.00 ,1.20 
+Washington State University,2017,1.32 ,1.29 ,1.00 ,1.00 
+Washington University in St. Louis,2000,1.83 ,1.36 ,1.00 ,1.50 
+Washington University in St. Louis,2001,2.11 ,1.51 ,1.00 ,1.75 
+Washington University in St. Louis,2002,1.87 ,1.26 ,1.00 ,1.65 
+Washington University in St. Louis,2003,2.33 ,1.67 ,1.00 ,1.36 
+Washington University in St. Louis,2004,1.75 ,4.99 ,1.00 ,1.52 
+Washington University in St. Louis,2005,1.59 ,3.07 ,1.00 ,1.45 
+Washington University in St. Louis,2006,1.59 ,1.56 ,1.00 ,1.17 
+Washington University in St. Louis,2007,1.62 ,1.53 ,1.00 ,1.29 
+Washington University in St. Louis,2008,1.67 ,2.04 ,1.50 ,1.26 
+Washington University in St. Louis,2009,2.14 ,2.00 ,1.50 ,1.30 
+Washington University in St. Louis,2010,1.49 ,2.72 ,1.50 ,1.37 
+Washington University in St. Louis,2011,1.54 ,5.42 ,2.33 ,1.25 
+Washington University in St. Louis,2012,1.66 ,1.78 ,1.53 ,1.73 
+Washington University in St. Louis,2013,3.11 ,2.95 ,1.33 ,1.36 
+Washington University in St. Louis,2014,1.96 ,1.71 ,1.64 ,1.52 
+Washington University in St. Louis,2015,1.98 ,1.70 ,1.25 ,1.55 
+Washington University in St. Louis,2016,3.23 ,2.42 ,1.50 ,1.19 
+Washington University in St. Louis,2017,2.82 ,1.20 ,1.83 ,1.29 
+Worcester Polytechnic Institute,2000,1.33 ,1.50 ,1.06 ,1.00 
+Worcester Polytechnic Institute,2001,1.37 ,1.33 ,1.00 ,1.00 
+Worcester Polytechnic Institute,2002,1.50 ,2.17 ,1.00 ,1.50 
+Worcester Polytechnic Institute,2003,1.75 ,1.33 ,1.00 ,1.00 
+Worcester Polytechnic Institute,2004,1.00 ,1.62 ,1.00 ,1.78 
+Worcester Polytechnic Institute,2005,1.50 ,1.51 ,1.00 ,1.50 
+Worcester Polytechnic Institute,2006,1.66 ,1.54 ,1.00 ,1.25 
+Worcester Polytechnic Institute,2007,1.25 ,1.33 ,1.00 ,1.00 
+Worcester Polytechnic Institute,2008,1.33 ,1.41 ,1.00 ,1.13 
+Worcester Polytechnic Institute,2009,1.34 ,1.67 ,1.00 ,1.67 
+Worcester Polytechnic Institute,2010,1.37 ,1.33 ,1.00 ,1.14 
+Worcester Polytechnic Institute,2011,1.33 ,1.62 ,1.00 ,1.47 
+Worcester Polytechnic Institute,2012,1.32 ,1.00 ,1.00 ,2.04 
+Worcester Polytechnic Institute,2013,1.33 ,1.73 ,1.00 ,1.40 
+Worcester Polytechnic Institute,2014,1.25 ,1.75 ,1.00 ,1.44 
+Worcester Polytechnic Institute,2015,1.25 ,1.83 ,1.00 ,1.50 
+Worcester Polytechnic Institute,2016,1.66 ,2.42 ,1.00 ,1.45 
+Worcester Polytechnic Institute,2017,1.98 ,1.37 ,1.00 ,1.45 
+Yale University,2000,1.37 ,1.30 ,1.58 ,1.25 
+Yale University,2001,2.13 ,1.41 ,2.40 ,1.75 
+Yale University,2002,1.88 ,1.25 ,1.26 ,2.40 
+Yale University,2003,1.31 ,1.37 ,2.17 ,1.58 
+Yale University,2004,1.92 ,1.34 ,1.50 ,1.75 
+Yale University,2005,1.82 ,1.37 ,2.28 ,1.53 
+Yale University,2006,1.86 ,1.37 ,2.00 ,2.00 
+Yale University,2007,1.71 ,1.41 ,2.67 ,1.33 
+Yale University,2008,1.43 ,1.40 ,1.87 ,1.25 
+Yale University,2009,1.55 ,1.36 ,1.83 ,1.00 
+Yale University,2010,2.37 ,1.45 ,1.00 ,2.00 
+Yale University,2011,1.57 ,1.29 ,1.39 ,2.00 
+Yale University,2012,2.34 ,1.45 ,1.00 ,1.56 
+Yale University,2013,2.58 ,1.35 ,1.60 ,1.67 
+Yale University,2014,2.95 ,1.22 ,1.68 ,1.50 
+Yale University,2015,1.71 ,1.42 ,1.41 ,1.37 
+Yale University,2016,1.92 ,1.46 ,1.26 ,1.78 
+Yale University,2017,2.14 ,1.25 ,1.22 ,1.33 

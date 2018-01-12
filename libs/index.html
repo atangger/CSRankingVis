@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/ >
+		<title>Smoothed D3.js Radar Chart</title>
+
+		<!-- Google fonts -->
+		<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300' rel='stylesheet' type='text/css'>
+		<link href='https://fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
+
+		<!-- D3.js -->
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.6/d3.min.js" charset="utf-8"></script>
+		<script src="convert_data.js" charset="utf-8"></script>
+		<script src="RadarChartInstance.js"></script>
+        <script src="LineChartInstance.js"></script>
+        <script src="jquery-latest.min.js"></script>
+        <style>
+			body {
+				font-family: 'Open Sans', sans-serif;
+				font-size: 20px;
+				font-weight: 300;
+				fill: #242424;
+				text-align: center;
+				text-shadow: 0 1px 0 #fff, 1px 0 0 #fff, -1px 0 0 #fff, 0 -1px 0 #fff;
+				cursor: default;
+			}
+			
+			.legend {
+				font-family: 'Raleway', sans-serif;
+				fill: #333333;
+			}
+			
+			.tooltip {
+				fill: #333333;
+			}
+		</style>
+	
+	</head>
+	<body>
+		<div class="radarChart">
+            <script>
+                RadarChartInstance.initialize(1, [1], 2000);
+            </script>
+
+        </div>
+		<script src="radarChart.js"></script>	
+		<script>
+      /* Radar chart design created by Nadieh Bremer - VisualCinnamon.com */
+		  function sleep(numberMillis) {
+			  var now = new Date();
+			  var exitTime = now.getTime() + numberMillis;
+			  while (true) {
+				  now = new Date();
+				  if (now.getTime() > exitTime)
+					  return;
+			  }
+		  }
+			////////////////////////////////////////////////////////////// 
+			//////////////////////// Set-Up ////////////////////////////// 
+			//////////////////////////////////////////////////////////////
+			var margin = {top: 100, right: 100, bottom: 100, left: 100},
+				width = Math.min(700, window.innerWidth - 10) - margin.left - margin.right,
+				height = Math.min(width, window.innerHeight - margin.top - margin.bottom - 20);
+			////////////////////////////////////////////////////////////// 
+			////////////////////////// Data ////////////////////////////// 
+			//////////////////////////////////////////////////////////////
+
+			////////////////////////////////////////////////////////////// 
+			//////////////////// Draw the Chart ////////////////////////// 
+			//////////////////////////////////////////////////////////////
+		</script>
+		<div id="highStock">
+		<script src="highstock.js"></script>
+		<script>
+            /*********************highChart.html end***********************************/
+            LineChartInstance.initialize(2, [54, 43]);
+		</script>
+        </div>
+	</body>
+</html>
