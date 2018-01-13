@@ -13,6 +13,7 @@
 		<script src="convert_data.js" charset="utf-8"></script>
 		<script src="RadarChartInstance.js"></script>
         <script src="LineChartInstance.js"></script>
+		<script src="ConfLineChartInstance.js"></script>
         <script src="jquery-latest.min.js"></script>
         <style>
 			body {
@@ -69,12 +70,20 @@
 			//////////////////// Draw the Chart ////////////////////////// 
 			//////////////////////////////////////////////////////////////
 		</script>
+		<!--<div id="highStock">-->
+		<!--<script src="highstock.js"></script>-->
+		<!--<script>-->
+            <!--/*********************highChart.html end***********************************/-->
+            <!--LineChartInstance.initialize(2, [54, 43]);-->
+		<!--</script>-->
+        <!--</div>-->
+
 		<div id="highStock">
-		<script src="highstock.js"></script>
-		<script>
-            /*********************highChart.html end***********************************/
-            LineChartInstance.initialize(2, [54, 43]);
-		</script>
-        </div>
+			<script src="highstock.js"></script>
+			<script>
+				/*********************highChart.html end***********************************/
+                ConfLineChartInstance.initialize(2, [50, 43]);
+			</script>
+		</div>
 	</body>
 </html>

@@ -1,6 +1,6 @@
 import csv
 
-for i in range(127):
+for i in range(72):
     s = str(i+1)
     print(s)
     r = csv.reader(open(s+'.csv', encoding='utf-8'))
@@ -16,8 +16,5 @@ for i in range(127):
 
         wrr.writerow(line)
         cnt = cnt + 1
-
-
-
-
-
+    if cnt != 2018:
+        wrr.writerow([line[0], 2017, str(0)])
